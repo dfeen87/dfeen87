@@ -60,8 +60,8 @@ I prioritize systems that remain explainable under scrutiny and safe to deploy i
 ## Education
 
 - **Harvard University (Extension School)**  
-  Master’s Program in Biology (in progress)  
-  Graduate Certificate in AI  
+  Master’s Program in Biology (admitted; matriculation upcoming) 
+  Graduate Certificate in AI
 
 - **Penn State University**  
   B.S. Business (Marketing & Management)
