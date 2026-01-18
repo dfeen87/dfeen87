@@ -43,9 +43,9 @@ I prioritize systems that remain explainable under scrutiny and safe to deploy i
 | Phase-Memory-Operator | Deterministic diagnostics for hysteretic and path-dependent systems |
 | Semantic-Dropdown-Search | Explicit, explainable metadata search infrastructure |
 | AILEE-Trust-Layer | Safety and governance for AI-enabled systems |
-| RespiroSync | Respiratory biosignal monitoring and analysis |
 | HLV-RAPS | Systems-level modeling and control concepts |
-| Install-Bridge | Lightweight tooling for clean repository integration |
+| CuraFrame | Clinical-oriented frameworks for biologically grounded analysis and diagnostics |
+| AI-IV-Therapy | Exploratory AI-assisted therapeutic systems with explicit safety and validation boundaries |
 
 ---
 
