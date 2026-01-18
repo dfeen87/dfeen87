@@ -12,6 +12,18 @@ My work sits at the intersection of:
 
 ---
 
+## What’s in this GitHub
+
+This profile hosts:
+- research code supporting published and preprint work
+- validation and diagnostic tooling for biological systems
+- governance and safety layers for AI-assisted systems
+- exploratory system models with explicit falsification criteria
+
+The emphasis throughout is on **clarity, auditability, and trust**.
+
+---
+
 ## Professional Focus
 
 - GMP / GLP-aligned software systems  
@@ -20,15 +32,28 @@ My work sits at the intersection of:
 - Deterministic and interpretable analytics  
 - Research-driven diagnostics and stability analysis  
 
-I prioritize **clarity, auditability, and trust** over black-box performance.
+I prioritize systems that remain explainable under scrutiny and safe to deploy in real biological and human contexts.
+
+---
+
+## Selected Repositories
+
+| Repository | Focus |
+|-----------|------|
+| Phase-Memory-Operator | Deterministic diagnostics for hysteretic and path-dependent systems |
+| Semantic-Dropdown-Search | Explicit, explainable metadata search infrastructure |
+| AILEE-Trust-Layer | Safety and governance for AI-enabled systems |
+| RespiroSync | Respiratory biosignal monitoring and analysis |
+| HLV-RAPS | Systems-level modeling and control concepts |
+| Install-Bridge | Lightweight tooling for clean repository integration |
 
 ---
 
 ## Background
 
 - **Quality & Manufacturing:** Merck, Accupac, Microsize  
-- **Systems & Research Writing:** Orbital Robotics (SBIR, ITAR-compliant work)  
-- **Independent Research:** Computational diagnostics, biosignal modeling, system stability
+- **Systems & Research Writing:** Orbital Robotics (ITAR-compliant SBIR and technical work)  
+- **Independent Research:** Computational diagnostics, biosignal modeling, system stability analysis  
 
 ---
 
@@ -43,24 +68,30 @@ I prioritize **clarity, auditability, and trust** over black-box performance.
 
 ---
 
-## Selected Work
+## Engineering Principles
 
-- ResearchGate: https://www.researchgate.net/profile/Don-Feeney-2  
-- GitHub repositories reflect ongoing work in:
-  - systems diagnostics
-  - validation logic
-  - safety-bounded analysis
-  - reproducible research tooling
+I build systems that are:
+- interpretable over opaque  
+- reproducible over optimized  
+- auditable over clever  
+- falsifiable rather than impressionistic  
 
 ---
 
-## Philosophy
+## Professional Context
 
-Good systems should be:
-- explainable
-- testable
-- falsifiable
-- safe to deploy in real biological and human contexts
+This work is informed by:
+- hands-on GMP manufacturing and quality experience  
+- regulated software validation and documentation practices  
+- independent research with an emphasis on testability and rigor  
+
+---
+
+## Engagement
+
+- Research discussion: please open an issue on the relevant repository  
+- Reuse: repositories are MIT-licensed unless otherwise noted  
+- Collaboration inquiries: GitHub issues preferred  
 
 ---
 
