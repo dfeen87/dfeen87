@@ -62,6 +62,9 @@ I prioritize systems that remain explainable under scrutiny and safe to deploy i
 - **Penn State University**  
   B.S. Business
 
+- **Thomas Jefferson University**  
+  M.S. Pharmaceutical Science  (admitted, fall 2026 start)
+  
 ---
 
 ## Engineering Principles
