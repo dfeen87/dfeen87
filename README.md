@@ -39,13 +39,13 @@ I prioritize systems that remain explainable under scrutiny and safe to deploy i
 ## Selected Repositories
 
 | Repository | Focus |
-|-----------|------|
-| Phase-Memory-Operator | Deterministic diagnostics for hysteretic and path-dependent systems |
-| Semantic-Dropdown-Search | Explicit, explainable metadata search infrastructure |
-| AILEE-Trust-Layer | Safety and governance for AI-enabled systems |
-| HLV-RAPS | Systems-level modeling and control concepts |
-| CuraFrame | Clinical-oriented frameworks for biologically grounded analysis and diagnostics |
-| AI-IV-Therapy | Exploratory AI-assisted therapeutic systems with explicit safety and validation boundaries |
+|-----------|-------|
+| **Semantic-Dropdown-Search** | Explicit, explainable metadata search infrastructure |
+| **AILEE-Trust-Layer** | Safety and governance for AI-enabled systems |
+| **HLV-RAPS** | Systems-level modeling and safety-critical control concepts |
+| **CuraFrame** | Clinical-oriented frameworks for biologically grounded analysis and diagnostics |
+| **AI-IV-Therapy** | Exploratory AI-assisted therapeutic systems with explicit safety and validation boundaries |
+| **USD-N** | Deterministic, reserve-constrained monetary protocol design |
 
 ---
 
