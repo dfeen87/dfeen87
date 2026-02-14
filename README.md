@@ -1,55 +1,64 @@
-# Don Michael Feeney Jr.
+# 👋 Hi, I'm Don Michael Feeney Jr.
 
-**Life-science software engineer focused on regulated, safety-critical systems.**
+### Life-Science Software Engineer | Quality Systems | Regulated Environments
 
 I build transparent, reproducible software for biological, diagnostic, and quality-driven environments, with direct experience in GMP manufacturing, validation, and regulated data systems.
 
-My work sits at the intersection of:
-- biological systems
-- software engineering
-- quality & regulatory compliance
-- interpretable AI and diagnostics
+**My work sits at the intersection of:**
+- 🧬 Biological systems
+- 💻 Software engineering
+- ✅ Quality & regulatory compliance
+- 🤖 Interpretable AI and diagnostics
 
 ---
 
-## What’s in this GitHub
+## 🔬 What I'm Currently Working On
+
+- Preparing for M.S. in Pharmaceutical Science at Thomas Jefferson University (Fall 2026)
+- Building safety and governance layers for AI-enabled systems
+- Developing diagnostic and validation tooling for biological systems
+- Research in computational diagnostics and biosignal modeling
+
+---
+
+## 📂 What's in this GitHub
 
 This profile hosts:
-- research code supporting published and preprint work
-- validation and diagnostic tooling for biological systems
-- governance and safety layers for AI-assisted systems
-- exploratory system models with explicit falsification criteria
+- 📊 Research code supporting published and preprint work
+- 🔍 Validation and diagnostic tooling for biological systems
+- 🛡️ Governance and safety layers for AI-assisted systems
+- 🧪 Exploratory system models with explicit falsification criteria
 
-The emphasis throughout is on **clarity, auditability, and trust**.
-
----
-
-## Professional Focus
-
-- GMP / GLP-aligned software systems  
-- Digital validation (IQ / OQ / PQ)  
-- Quality systems, MES & LIMS  
-- Deterministic and interpretable analytics  
-- Research-driven diagnostics and stability analysis  
-
-I prioritize systems that remain explainable under scrutiny and safe to deploy in real biological and human contexts.
+**The emphasis throughout is on clarity, auditability, and trust.**
 
 ---
 
-## Selected Repositories
+## 💼 Professional Focus
 
-| Repository | Focus |
-|-----------|-------|
-| **Semantic-Dropdown-Search** | Explicit, explainable metadata search infrastructure |
-| **AILEE-Trust-Layer** | Safety and governance for AI-enabled systems |
-| **HLV-RAPS** | Systems-level modeling and safety-critical control concepts |
-| **CuraFrame** | Clinical-oriented frameworks for biologically grounded analysis and diagnostics |
-| **AI-IV-Therapy** | Exploratory AI-assisted therapeutic systems with explicit safety and validation boundaries |
-| **USD-N** | Deterministic, reserve-constrained monetary protocol design |
+- 🏭 GMP / GLP-aligned software systems  
+- ✓ Digital validation (IQ / OQ / PQ)  
+- 📋 Quality systems, MES & LIMS  
+- 📈 Deterministic and interpretable analytics  
+- 🔬 Research-driven diagnostics and stability analysis  
+
+**Philosophy:** I prioritize systems that remain explainable under scrutiny and safe to deploy in real biological and human contexts.
 
 ---
 
-## Background
+## 🌟 Featured Projects
+
+| Repository | Description |
+|-----------|-------------|
+| **Semantic-Dropdown-Search** | 🔍 Explicit, explainable metadata search infrastructure |
+| **AILEE-Trust-Layer** | 🛡️ Safety and governance for AI-enabled systems |
+| **HLV-RAPS** | 🎯 Systems-level modeling and safety-critical control concepts |
+| **CuraFrame** | 🏥 Clinical-oriented frameworks for biologically grounded analysis and diagnostics |
+| **AI-IV-Therapy** | 💉 Exploratory AI-assisted therapeutic systems with explicit safety and validation boundaries |
+| **USD-N** | 💰 Deterministic, reserve-constrained monetary protocol design |
+
+---
+
+## 🏢 Professional Experience
 
 - **Quality & Manufacturing:** Merck, Accupac, Microsize  
 - **Systems & Research Writing:** Orbital Robotics (ITAR-compliant SBIR and technical work)  
@@ -57,41 +66,41 @@ I prioritize systems that remain explainable under scrutiny and safe to deploy i
 
 ---
 
-## Education
+## 🎓 Education
+
+- **Thomas Jefferson University**  
+  M.S. Pharmaceutical Science (Starting Fall 2026)
 
 - **Penn State University**  
   B.S. Business
-
-- **Thomas Jefferson University**  
-  M.S. Pharmaceutical Science  (admitted, fall 2026 start)
   
 ---
 
-## Engineering Principles
+## ⚙️ Engineering Principles
 
 I build systems that are:
-- interpretable over opaque  
-- reproducible over optimized  
-- auditable over clever  
-- falsifiable rather than impressionistic  
+- 🔍 **Interpretable** over opaque  
+- 🔄 **Reproducible** over optimized  
+- 📝 **Auditable** over clever  
+- 🧪 **Falsifiable** rather than impressionistic  
 
 ---
 
-## Professional Context
+## 🤝 Let's Connect
 
-This work is informed by:
-- hands-on GMP manufacturing and quality experience  
-- regulated software validation and documentation practices  
-- independent research with an emphasis on testability and rigor  
-
----
-
-## Engagement
-
-- Research discussion: please open an issue on the relevant repository  
-- Reuse: repositories are MIT-licensed unless otherwise noted  
-- Collaboration inquiries: GitHub issues preferred  
+- 💬 **Research Discussion:** Open an issue on the relevant repository  
+- 🔓 **Open Source:** Repositories are MIT-licensed unless otherwise noted  
+- 🤝 **Collaboration:** GitHub issues preferred for inquiries  
+- 📧 **Email:** dfeen87@gmail.com
 
 ---
 
-*This GitHub hosts active research code, validation tools, and exploratory systems work.*
+<div align="center">
+
+### 💡 Built on Experience
+
+*This work is informed by hands-on GMP manufacturing, regulated software validation, and independent research with an emphasis on testability and rigor.*
+
+**🚀 This GitHub hosts active research code, validation tools, and exploratory systems work.**
+
+</div>
