@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Don Michael Feeney Jr.
+# 👋 Hi, I'm Don
 
 ### Life-Science Software Engineer | Quality Systems | Regulated Environments
 
