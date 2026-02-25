@@ -49,12 +49,12 @@ This profile hosts:
 
 | Repository | Description |
 |-----------|-------------|
-| **Semantic-Dropdown-Search** | 🔍 Explicit, explainable metadata search infrastructure |
-| **AILEE-Trust-Layer** | 🛡️ Safety and governance for AI-enabled systems |
-| **HLV-RAPS** | 🎯 Systems-level modeling and safety-critical control concepts |
-| **CuraFrame** | 🏥 Clinical-oriented frameworks for biologically grounded analysis and diagnostics |
-| **AI-IV-Therapy** | 💉 Exploratory AI-assisted therapeutic systems with explicit safety and validation boundaries |
-| **USD-N** | 💰 Deterministic, reserve-constrained monetary protocol design |
+| **Acoustic Projection Microphone System** | 🔍 High‑fidelity acoustic sensing with explicit, explainable metadata extraction |
+| **AILEE-Trust-Layer** | 🛡️ Deterministic trust, governance, and safety infrastructure for AI‑enabled systems |
+| **HLV-RAPS** | 🎯 Systems‑level modeling and safety‑critical control frameworks for high‑liability environments |
+| **CuraFrame** | 🏥 Clinical‑oriented frameworks for biologically grounded analysis, diagnostics, and reproducibility |
+| **AI-IV-Therapy** | 💉 AI‑assisted therapeutic modeling with explicit safety, validation, and audit boundaries |
+| **Smartphone-Based-Chest-Monitoring** | 📱 Deterministic phase‑memory respiratory monitoring using any smartphone, with full multi‑record validation |
 
 ---
 
