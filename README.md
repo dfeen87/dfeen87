@@ -103,4 +103,7 @@ I build systems that are:
 
 **🚀 This GitHub hosts active research code, validation tools, and exploratory systems work.**
 
+*Special thanks to Copilot for helping this README pop just a little more.*
+
+
 </div>
