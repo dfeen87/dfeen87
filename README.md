@@ -1,47 +1,48 @@
 # 👋 Hi, I'm Don
 
-### Life-Science Software Engineer | Quality Systems | Regulated Environments
+### Life‑Science Software Engineer • Quality Systems • Regulated Environments
 
-I build transparent, reproducible software for biological, diagnostic, and quality-driven environments, with direct experience in GMP manufacturing, validation, and regulated data systems.
+I build transparent, reproducible software for biological, diagnostic, and quality‑driven systems. My background spans GMP manufacturing, validation, regulated data systems, and interpretable AI for clinical and safety‑critical contexts.
 
-**My work sits at the intersection of:**
-- 🧬 Biological systems
-- 💻 Software engineering
-- ✅ Quality & regulatory compliance
-- 🤖 Interpretable AI and diagnostics
-
----
-
-## 🔬 What I'm Currently Working On
-
-- Preparing for M.S. in Pharmaceutical Science at Thomas Jefferson University (Fall 2026)
-- Building safety and governance layers for AI-enabled systems
-- Developing diagnostic and validation tooling for biological systems
-- Research in computational diagnostics and biosignal modeling
+**My work consistently centers on:**
+- 🧬 Biological & diagnostic systems  
+- 💻 Software engineering for regulated environments  
+- 🧪 Validation, auditability & reproducibility  
+- 🤖 Interpretable, constraint‑driven AI  
 
 ---
 
-## 📂 What's in this GitHub
+## 🔬 Current Focus
 
-This profile hosts:
-- 📊 Research code supporting published and preprint work
-- 🔍 Validation and diagnostic tooling for biological systems
-- 🛡️ Governance and safety layers for AI-assisted systems
-- 🧪 Exploratory system models with explicit falsification criteria
+- Preparing for the **M.S. in Pharmaceutical Science** at Thomas Jefferson University (Fall 2026)  
+- Designing **safety and governance layers** for AI‑enabled systems  
+- Developing **diagnostic and validation tooling** for biological and biosignal analysis  
+- Independent research in **computational diagnostics** and **system stability modeling**  
 
-**The emphasis throughout is on clarity, auditability, and trust.**
+---
+
+## 📂 What You’ll Find Here
+
+This GitHub hosts active research and engineering work across regulated, biological, and safety‑critical domains:
+
+- 📊 Reproducible research code supporting published and preprint work  
+- 🔍 Diagnostic and validation tooling for biological systems  
+- 🛡️ Governance and safety layers for AI‑assisted decision systems  
+- 🧪 Exploratory system models with explicit falsification and audit criteria  
+
+**Everything here emphasizes clarity, determinism, and trust.**
 
 ---
 
 ## 💼 Professional Focus
 
-- 🏭 GMP / GLP-aligned software systems  
+- 🏭 GMP / GLP‑aligned software systems  
 - ✓ Digital validation (IQ / OQ / PQ)  
 - 📋 Quality systems, MES & LIMS  
-- 📈 Deterministic and interpretable analytics  
-- 🔬 Research-driven diagnostics and stability analysis  
+- 📈 Deterministic, interpretable analytics  
+- 🔬 Research‑driven diagnostics & stability analysis  
 
-**Philosophy:** I prioritize systems that remain explainable under scrutiny and safe to deploy in real biological and human contexts.
+**Philosophy:** Build systems that remain explainable under scrutiny and safe to deploy in real biological and human contexts.
 
 ---
 
@@ -49,49 +50,47 @@ This profile hosts:
 
 | Repository | Description |
 |-----------|-------------|
-| **Acoustic Projection Microphone System** | 🔍 High‑fidelity acoustic sensing with explicit, explainable metadata extraction |
-| **AILEE-Trust-Layer** | 🛡️ Deterministic trust, governance, and safety infrastructure for AI‑enabled systems |
-| **HLV-RAPS** | 🎯 Systems‑level modeling and safety‑critical control frameworks for high‑liability environments |
+| **Acoustic Projection Microphone System** | 🔍 High‑fidelity acoustic sensing with explainable metadata extraction |
+| **AILEE‑Trust‑Layer** | 🛡️ Deterministic trust, governance, and safety infrastructure for AI‑enabled systems |
+| **HLV‑RAPS** | 🎯 Systems‑level modeling and safety‑critical control frameworks for high‑liability environments |
 | **CuraFrame** | 🏥 Clinical‑oriented frameworks for biologically grounded analysis, diagnostics, and reproducibility |
-| **AI-IV-Therapy** | 💉 AI‑assisted therapeutic modeling with explicit safety, validation, and audit boundaries |
-| **Smartphone-Based-Chest-Monitoring** | 📱 Deterministic phase‑memory respiratory monitoring using any smartphone, with full multi‑record validation |
+| **AI‑IV‑Therapy** | 💉 AI‑assisted therapeutic modeling with explicit safety, validation, and audit boundaries |
+| **Smartphone‑Based‑Chest‑Monitoring** | 📱 Deterministic phase‑memory respiratory monitoring with multi‑record validation |
 
 ---
 
 ## 🏢 Professional Experience
 
 - **Quality & Manufacturing:** Merck, Accupac, Microsize  
-- **Systems & Research Writing:** Orbital Robotics (ITAR-compliant SBIR and technical work)  
+- **Systems & Research Writing:** Orbital Robotics (ITAR‑compliant SBIR and technical work)  
 - **Independent Research:** Computational diagnostics, biosignal modeling, system stability analysis  
 
 ---
 
 ## 🎓 Education
 
-- **Thomas Jefferson University**  
-  M.S. Pharmaceutical Science (Starting Fall 2026)
+- **Thomas Jefferson University** — M.S. Pharmaceutical Science (Fall 2026)  
+- **Penn State University** — B.S. Business  
 
-- **Penn State University**  
-  B.S. Business
-  
 ---
 
 ## ⚙️ Engineering Principles
 
-I build systems that are:
-- 🔍 **Interpretable** over opaque  
-- 🔄 **Reproducible** over optimized  
-- 📝 **Auditable** over clever  
+I design systems that are:
+
+- 🔍 **Interpretable** rather than opaque  
+- 🔄 **Reproducible** rather than ad‑hoc  
+- 📝 **Auditable** rather than clever  
 - 🧪 **Falsifiable** rather than impressionistic  
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
-- 💬 **Research Discussion:** Open an issue on the relevant repository  
-- 🔓 **Open Source:** Repositories are MIT-licensed unless otherwise noted  
-- 🤝 **Collaboration:** GitHub issues preferred for inquiries  
-- 📧 **Email:** dfeen87@gmail.com
+- 💬 Research discussion: open an issue on the relevant repo  
+- 🔓 Open source: MIT‑licensed unless noted  
+- 🤝 Collaboration: issues preferred for inquiries  
+- 📧 Email: **dfeen87@gmail.com**
 
 ---
 
@@ -99,11 +98,8 @@ I build systems that are:
 
 ### 💡 Built on Experience
 
-*This work is informed by hands-on GMP manufacturing, regulated software validation, and independent research with an emphasis on testability and rigor.*
+*Grounded in GMP manufacturing, regulated software validation, and independent research with an emphasis on testability, clarity, and rigor.*
 
 **🚀 This GitHub hosts active research code, validation tools, and exploratory systems work.**
-
-*Special thanks to Copilot for helping this README pop just a little more.*
-
 
 </div>
