@@ -11,7 +11,6 @@ I build transparent, reproducible software for biological, diagnostic, and safet
 
 ## 🔬 Current Focus
 
-- Preparing for **M.S. Pharmaceutical Science** (Thomas Jefferson University, Fall 2026)  
 - Designing **safety and governance layers** for AI‑enabled systems  
 - Developing **diagnostic and validation tooling** for biological and biosignal analysis  
 - Independent research in **computational diagnostics** and **system stability modeling**
@@ -55,10 +54,8 @@ Your pinned repositories serve as the natural entry point into this work.
 ---
 
 ## 🎓 Education
-
-- **Thomas Jefferson University** — M.S. Pharmaceutical Science (Fall 2026)  
+ 
 - **Penn State University** — B.S. Business  
-
 ---
 
 ## ⚙️ Engineering Principles
