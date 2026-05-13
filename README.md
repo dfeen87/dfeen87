@@ -55,7 +55,9 @@ Your pinned repositories serve as the natural entry point into this work.
 
 ## 🎓 Education
  
-- **Penn State University** — B.S. Business  
+- **Penn State University** — B.S. Business
+- **Drexel University** — M.S. Bioinformatics (expected 2028)
+   
 ---
 
 ## ⚙️ Engineering Principles
