@@ -1,66 +1,69 @@
-# 👋 Hi, I'm Don
+# **👋 Hi, I'm Don Michael**
 
-### Life‑Science Software Engineer • Quality Systems • Regulated Environments
+### **Systems Architect • Agentic‑AI Safety Researcher • Deterministic Frameworks**
 
-I build transparent, reproducible software for biological, diagnostic, and safety‑critical systems. My background spans GMP manufacturing, validation, regulated data systems, and interpretable AI for clinical and high‑liability contexts.
+I design **deterministic, auditable, invariant‑driven systems** for agentic AI, biological safety, and high‑liability environments. My work spans architecture‑level research, reproducible scientific tooling, and multi‑domain safety frameworks used across clinical, computational, and engineered systems.
 
-**Research Thesis:**  
-*I design invariant‑driven, auditable decision and control systems — and apply the same principles across clinical, biosignal, and other safety‑critical domains.*
-
----
-
-## 🔬 Current Focus
-
-- Designing **safety and governance layers** for AI‑enabled systems  
-- Developing **diagnostic and validation tooling** for biological and biosignal analysis  
-- Independent research in **computational diagnostics** and **system stability modeling**
+My GitHub is the active home of **45 MIT‑licensed research repositories**, a growing portfolio of **peer‑engaged papers**, and a unified effort toward **transparent, reproducible, safety‑aligned computation**.
 
 ---
 
-## 📂 What You’ll Find Here
+## **🔭 Current Research Focus**
 
-This GitHub hosts active research and engineering work across regulated, biological, and safety‑critical domains:
-
-- 📊 Reproducible research code supporting published and preprint work  
-- 🔍 Diagnostic and validation tooling for biological systems  
-- 🛡️ Governance and safety layers for AI‑assisted decision systems  
-- 🧪 Exploratory system models with explicit falsification and audit criteria  
-
-**Everything emphasizes clarity, determinism, and trust.**
+- Building **governance and safety substrates** for agentic‑AI systems  
+- Designing **membrane‑based identity, routing, and constraint layers**  
+- Developing **deterministic C++/Python pipelines** for scientific and safety‑critical evaluation  
+- Modeling **clinical, biosignal, and multi‑domain safety constraints**  
+- Advancing reproducible research through **auditable, falsifiable system design**
 
 ---
 
-## 🌟 Featured Projects
+## **📂 What You’ll Find Here**
+
+This GitHub hosts architecture‑level research, scientific tooling, and safety‑critical frameworks:
+
+- 🧠 **Agentic‑AI governance layers** (trust, routing, identity membranes)  
+- 🧪 **Clinical and biological safety evaluators** with deterministic pipelines  
+- 📊 **Reproducible research code** supporting published and preprint work  
+- 🛡️ **Constraint‑driven decision systems** with explicit audit and falsification criteria  
+- 📡 **Signal‑processing and diagnostic frameworks** with multi‑record validation  
+- 🔬 **Exploratory system models** grounded in invariants, stability, and safety
+
+Everything emphasizes **clarity, determinism, and trust**.
+
+---
+
+## **🌟 Featured Projects**
 
 | Repository | Description |
 |-----------|-------------|
+| **AILEE‑CORE / Trust‑Layer** | 🛡️ Deterministic governance, routing, and safety substrate for agentic‑AI systems |
+| **CuraFrame** | 🏥 Clinical safety‑constraint intelligence with population modeling and reproducible evaluation |
+| **HLV‑RAPS** | 🎯 High‑liability control frameworks with invariant‑driven stability modeling |
 | **Acoustic Projection Microphone System** | 🔍 High‑fidelity acoustic sensing with explainable metadata extraction |
-| **AILEE‑Trust‑Layer** | 🛡️ Deterministic trust, governance, and safety infrastructure for AI‑enabled systems |
-| **HLV‑RAPS** | 🎯 Systems‑level modeling and safety‑critical control frameworks for high‑liability environments |
-| **CuraFrame** | 🏥 Clinical‑oriented frameworks for biologically grounded analysis, diagnostics, and reproducibility |
-| **AI‑IV‑Therapy** | 💉 AI‑assisted therapeutic modeling with explicit safety, validation, and audit boundaries |
-| **Smartphone‑Based‑Chest‑Monitoring** | 📱 Deterministic phase‑memory respiratory monitoring with multi‑record validation |
+| **AI‑IV‑Therapy** | 💉 Therapeutic modeling with explicit audit boundaries and safety constraints |
+| **Smartphone‑Based‑Chest‑Monitoring** | 📱 Deterministic respiratory phase‑memory monitoring with multi‑record validation |
 
 Your pinned repositories serve as the natural entry point into this work.
 
 ---
 
-## 💼 Professional Experience
+## **💼 Professional Experience**
 
-- **Quality & Manufacturing:** Merck, Accupac, Microsize  
-- **Systems & Research Writing:** Orbital Robotics (ITAR‑compliant SBIR and technical work)  
-- **Independent Research:** Computational diagnostics, biosignal modeling, system stability analysis  
+- **Quality, Manufacturing & Validation:** Merck, Accupac, Microsize  
+- **Systems & Research Writing:** Orbital Robotics (ITAR‑compliant SBIR technical work)  
+- **Independent Research:** Agentic‑AI safety, computational diagnostics, biosignal modeling, deterministic system design  
 
 ---
 
-## 🎓 Education
- 
-- **Penn State University** — B.S. Business
-- **Drexel University** — M.S. Bioinformatics (expected 2028)
-   
+## **🎓 Education**
+
+- **Penn State University** — B.S. Business, Concentration in Marketing and Management
+- **Drexel University** — M.S. Systems Engineering, Certificate in Software Applications (expected 2027)
+
 ---
 
-## ⚙️ Engineering Principles
+## **⚙️ Engineering Principles**
 
 I design systems that are:
 
@@ -68,10 +71,12 @@ I design systems that are:
 - 🔄 **Reproducible**  
 - 📝 **Auditable**  
 - 🧪 **Falsifiable**  
+- 🧩 **Invariant‑driven**  
+- 🛡️ **Safety‑aligned**
 
 ---
 
-## 🤝 Connect
+## **🤝 Connect**
 
 - 💬 Research discussion: open an issue on the relevant repo  
 - 🔓 Open source: MIT‑licensed unless noted  
@@ -82,12 +87,10 @@ I design systems that are:
 
 <div align="center">
 
-### 💡 Built on Experience
+### **💡 Built on Determinism, Safety, and Scientific Rigor**
 
-*Grounded in GMP manufacturing, regulated software validation, and independent research with an emphasis on testability, clarity, and rigor.*
+*Grounded in regulated environments, stability modeling, and architecture‑level research across biological, computational, and agentic‑AI systems.*
 
-**🚀 This GitHub hosts active research code, validation tools, and exploratory systems work.**
-
-*Special thanks to Microsoft Copilot for helping this README shine a little brighter.*
+**🚀 This GitHub hosts active research code, safety frameworks, and reproducible scientific tooling.**
 
 </div>
