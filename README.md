@@ -76,6 +76,12 @@ I design systems that are:
 
 ---
 
+**Founder of Continuous Systems**
+
+www.github.com/ContinuousSystems 
+
+---
+
 ## **🤝 Connect**
 
 - 💬 Research discussion: open an issue on the relevant repo  
