@@ -76,9 +76,9 @@ I design systems that are:
 
 ---
 
-## 🌐 **Founder of Continuous Systems**
+## 🌐 **Founder of Continuity, Inc.**
 
-www.github.com/ContinuousSystems 
+www.github.com/Continuity-Inc
 
 ---
 
