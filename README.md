@@ -76,9 +76,9 @@ I design systems that are:
 
 ---
 
-## 🌐 **Founder of Continuity, Inc.**
+## 🌐 **Founder of Calintio**
 
-www.github.com/Continuity-Inc
+www.github.com/Calintio
 
 ---
 
