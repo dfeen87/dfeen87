@@ -4,7 +4,7 @@
 
 I design **deterministic, auditable, invariant‑driven systems** for agentic AI, biological safety, and high‑liability environments. My work spans architecture‑level research, reproducible scientific tooling, and multi‑domain safety frameworks used across clinical, computational, and engineered systems.
 
-My GitHub is the active home of **45 MIT‑licensed research repositories**, a growing portfolio of **peer‑engaged papers**, and a unified effort toward **transparent, reproducible, safety‑aligned computation**.
+My GitHub is the active home of **MIT‑licensed scientific research repositories**, a growing portfolio of **peer‑engaged papers**, and a unified effort toward **transparent, reproducible, safety‑aligned computation**.
 
 ---
 
