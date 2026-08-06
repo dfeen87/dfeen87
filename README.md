@@ -4,7 +4,7 @@
 
 I design **deterministic, auditable, invariant‑driven systems** for agentic AI, biological safety, and high‑liability environments. My work spans architecture‑level research, reproducible scientific tooling, and multi‑domain safety frameworks used across clinical, computational, and engineered systems.
 
-My GitHub is the active home of **MIT‑licensed scientific research repositories**, a growing portfolio of **peer‑engaged papers**, and a unified effort toward **transparent, reproducible, safety‑aligned computation**.
+My GitHub is the active home of many **MIT‑licensed scientific research repositories**, a growing portfolio of **peer‑engaged papers**, and a unified effort toward **transparent, reproducible, safety‑aligned computation**.
 
 ---
 
@@ -39,7 +39,7 @@ Everything emphasizes **clarity, determinism, and trust**.
 |-----------|-------------|
 | **AILEE‑CORE / Trust‑Layer** | 🛡️ Deterministic governance, routing, and safety substrate for agentic‑AI systems |
 | **CuraFrame** | 🏥 Clinical safety‑constraint intelligence with population modeling and reproducible evaluation |
-| **HLV‑RAPS** | 🎯 High‑liability control frameworks with invariant‑driven stability modeling |
+| **RAPS** | 🎯 High‑liability control frameworks with invariant‑driven stability modeling |
 | **Acoustic Projection Microphone System** | 🔍 High‑fidelity acoustic sensing with explainable metadata extraction |
 | **AI‑IV‑Therapy** | 💉 Therapeutic modeling with explicit audit boundaries and safety constraints |
 | **Smartphone‑Based‑Chest‑Monitoring** | 📱 Deterministic respiratory phase‑memory monitoring with multi‑record validation |
