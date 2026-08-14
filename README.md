@@ -1,65 +1,67 @@
 # **👋 Hi, I'm Don Michael**
 
-### **Systems Architect • Agentic‑AI Safety Researcher • Deterministic Frameworks**
+<p align="center">
+  <img src="me.png" width="420">
+</p>
 
-I design **deterministic, auditable, invariant‑driven systems** for agentic AI, biological safety, and high‑liability environments. My work spans architecture‑level research, reproducible scientific tooling, and multi‑domain safety frameworks used across clinical, computational, and engineered systems.
+### **Systems Architect • Agentic‑AI Safety Researcher • Designer of Deterministic Substrates**
 
-My GitHub is the active home of **MIT‑licensed scientific research repositories**, a growing portfolio of **peer‑engaged papers**, and a unified effort toward **transparent, reproducible, safety‑aligned computation**.
+I build **deterministic, auditable, invariant‑driven computational systems** for agentic‑AI safety, biological diagnostics, and high‑liability environments. My work focuses on architecture‑level research: trust membranes, routing substrates, reproducible scientific tooling, and multi‑domain safety evaluators spanning clinical, computational, and engineered systems.
 
----
-
-## **🔭 Current Research Focus**
-
-- Building **governance and safety substrates** for agentic‑AI systems  
-- Designing **membrane‑based identity, routing, and constraint layers**  
-- Developing **deterministic C++/Python pipelines** for scientific and safety‑critical evaluation  
-- Modeling **clinical, biosignal, and multi‑domain safety constraints**  
-- Advancing reproducible research through **auditable, falsifiable system design**
+This GitHub is the active home of **MIT‑licensed research frameworks**, **peer‑engaged papers**, and a growing ecosystem of **safety‑aligned, reproducible computation**.
 
 ---
 
-## **📂 What You’ll Find Here**
+## **🔭 Research Program**
 
-This GitHub hosts architecture‑level research, scientific tooling, and safety‑critical frameworks:
-
-- 🧠 **Agentic‑AI governance layers** (trust, routing, identity membranes)  
-- 🧪 **Clinical and biological safety evaluators** with deterministic pipelines  
-- 📊 **Reproducible research code** supporting published and preprint work  
-- 🛡️ **Constraint‑driven decision systems** with explicit audit and falsification criteria  
-- 📡 **Signal‑processing and diagnostic frameworks** with multi‑record validation  
-- 🔬 **Exploratory system models** grounded in invariants, stability, and safety
-
-Everything emphasizes **clarity, determinism, and trust**.
+- **Agentic‑AI governance substrates** — trust membranes, routing layers, constraint systems  
+- **Deterministic evaluation pipelines** — C++/Python scientific kernels  
+- **Safety‑critical modeling** — biosignal, clinical, and multi‑domain constraint intelligence  
+- **Invariant‑driven system design** — falsifiable, auditable, stability‑aligned architectures  
+- **Reproducible research tooling** — transparent scientific computation
 
 ---
 
-## **🌟 Featured Projects**
+## **📂 What This GitHub Represents**
 
-| Repository | Description |
-|-----------|-------------|
-| **AILEE‑CORE / Trust‑Layer** | 🛡️ Deterministic governance, routing, and safety substrate for agentic‑AI systems |
-| **CuraFrame** | 🏥 Clinical safety‑constraint intelligence with population modeling and reproducible evaluation |
-| **RAPS** | 🎯 High‑liability control frameworks with invariant‑driven stability modeling |
-| **Acoustic Projection Microphone System** | 🔍 High‑fidelity acoustic sensing with explainable metadata extraction |
-| **AI‑IV‑Therapy** | 💉 Therapeutic modeling with explicit audit boundaries and safety constraints |
-| **Smartphone‑Based‑Chest‑Monitoring** | 📱 Deterministic respiratory phase‑memory monitoring with multi‑record validation |
+A unified body of architecture‑level research:
 
-Your pinned repositories serve as the natural entry point into this work.
+- **Agentic‑AI trust layers** — identity membranes, deterministic routing  
+- **Clinical & biological safety evaluators** — reproducible pipelines with audit boundaries  
+- **Scientific reproducibility frameworks** — falsifiable, deterministic computation  
+- **High‑liability control systems** — invariant‑driven stability modeling  
+- **Signal‑processing diagnostics** — multi‑record validation, explainable metadata  
+- **Exploratory system models** — stability, invariants, safety
+
+Everything is built around **clarity, determinism, and trust**.
 
 ---
 
-## **💼 Professional Experience**
+## **🌟 Featured Research Repositories**
 
-- **Quality, Manufacturing & Validation:** Merck, Accupac, Microsize  
-- **Systems & Research Writing:** Orbital Robotics (ITAR‑compliant SBIR technical work)  
-- **Independent Research:** Agentic‑AI safety, computational diagnostics, biosignal modeling, deterministic system design  
+| **Repository** | **Description** |
+|----------------|-----------------|
+| **AILEE‑CORE** | Deterministic governance, routing, and safety substrate for agentic‑AI systems |
+| **CuraFrame** | Clinical safety‑constraint intelligence with reproducible evaluation |
+| **RAPS** | High‑liability control frameworks with invariant‑driven stability modeling |
+| **Acoustic Projection Microphone System** | High‑fidelity acoustic sensing with explainable metadata extraction |
+| **AI‑IV‑Therapy** | Therapeutic modeling with explicit audit boundaries |
+| **Chest‑Monitoring** | Deterministic respiratory phase‑memory monitoring |
+
+---
+
+## **💼 Professional Background**
+
+- Quality, Manufacturing & Validation — Merck, Accupac, Microsize  
+- Systems & Research Writing — Orbital Robotics (ITAR‑compliant SBIR technical work)  
+- Independent Research — agentic‑AI safety, biosignal modeling, deterministic system design  
 
 ---
 
 ## **🎓 Education**
 
-- **Penn State University** — B.S. Business, Concentration in Marketing and Management
-- **Drexel University** — M.S. Systems Engineering, Certificate in Software Applications (expected 2027)
+- Penn State University — B.S. Business (Marketing & Management)  
+- Drexel University — M.S. Systems Engineering + Software Applications (expected 2027)
 
 ---
 
@@ -67,27 +69,28 @@ Your pinned repositories serve as the natural entry point into this work.
 
 I design systems that are:
 
-- 🔍 **Interpretable**  
-- 🔄 **Reproducible**  
-- 📝 **Auditable**  
-- 🧪 **Falsifiable**  
-- 🧩 **Invariant‑driven**  
-- 🛡️ **Safety‑aligned**
+- **Interpretable**  
+- **Reproducible**  
+- **Auditable**  
+- **Falsifiable**  
+- **Invariant‑driven**  
+- **Safety‑aligned**  
 
 ---
 
 ## 🌐 **Founder of Calintio**
 
-www.github.com/Calintio
+A systems‑focused research company building deterministic substrates for agentic‑AI and scientific computation.  
+[https://github.com/Calintio](https://github.com/Calintio)
 
 ---
 
 ## **🤝 Connect**
 
-- 💬 Research discussion: open an issue on the relevant repo  
-- 🔓 Open source: MIT‑licensed unless noted  
-- 🤝 Collaboration: issues preferred for inquiries  
-- 📧 Email: **dfeen87@gmail.com**
+- Research discussion: open an issue  
+- Open source: MIT‑licensed unless noted  
+- Collaboration: issues preferred  
+- Email: **dfeen87@gmail.com**
 
 ---
 
