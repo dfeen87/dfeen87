@@ -1,4 +1,4 @@
-# **👋 Hi, I'm Don Michael. Nice to meet you here, on my Github.**
+# **👋 Hi, I'm Don Michael. Nice to meet you here on my Github.**
 
 <p align="center">
   <img src="me.png" width="420">
@@ -41,12 +41,12 @@ Everything is built around **clarity, determinism, and trust**.
 
 | **Repository** | **Description** |
 |----------------|-----------------|
-| **AILEE‑CORE** | Deterministic governance, routing, and safety substrate for agentic‑AI systems |
+| **AILEE‑Trust** | Deterministic governance, routing, and safety substrate for agentic‑AI systems |
 | **CuraFrame** | Clinical safety‑constraint intelligence with reproducible evaluation |
 | **RAPS** | High‑liability control frameworks with invariant‑driven stability modeling |
 | **Acoustic Projection Microphone System** | High‑fidelity acoustic sensing with explainable metadata extraction |
 | **AI‑IV‑Therapy** | Therapeutic modeling with explicit audit boundaries |
-| **Chest‑Monitoring** | Deterministic respiratory phase‑memory monitoring |
+| **U.F.O.** | Agentic AI with capability to connect to Legacy Hardware |
 
 ---
 
@@ -62,6 +62,7 @@ Everything is built around **clarity, determinism, and trust**.
 
 - Penn State University — B.S. Business (Marketing & Management)  
 - Drexel University — M.S. Systems Engineering + Software Applications (expected 2027)
+- (Hopefully) Univesity of Southern California — PhD. in Computer Science (give or take before 2030)
 
 ---
 
@@ -77,6 +78,12 @@ I design systems that are:
 - **Safety‑aligned**  
 
 ---
+
+## **❤️ Non Profit work**
+
+- World Food Programme: Financial support for buying meals to those in hardship around the globe.
+- American Red Cross: Platelet Donor. Currently at 40 units given to individuals in dire need for life support.
+- Chopan Foundation: A Middle East Christian nonprofit that supports children and families dealing with hardship.
 
 ## 🌐 **Founder of Calintio**
 
