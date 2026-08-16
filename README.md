@@ -79,7 +79,7 @@ I design systems that are:
 
 ---
 
-## **❤️ Non Profit work**
+## **❤️ Nonprofit work**
 
 - World Food Programme: Financial support for buying meals to those in hardship around the globe.
 - American Red Cross: Platelet Donor. Currently at 40 units given to individuals in dire need for life support.
