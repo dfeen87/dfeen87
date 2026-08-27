@@ -61,8 +61,6 @@ Everything is built around **clarity, determinism, and trust**.
 ## **🎓 Education**
 
 - Penn State University — B.S. Business (Marketing & Management)  
-- Drexel University — M.S. Systems Engineering + Software Applications (expected 2027)
-- (Hopefully) Univesity of Southern California — PhD. in Computer Science (give or take before 2030)
 
 ---
 
