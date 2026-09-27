@@ -1,4 +1,4 @@
-# **👋 Hello, I'm Don Michael, it's nice to meet you here on my Github.**
+# **👋 Hello, I'm Don Michael. It's nice to meet you here on my Github.**
 
 <p align="center">
   <img src="me.png" width="420">
