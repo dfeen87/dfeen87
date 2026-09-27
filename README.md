@@ -1,4 +1,4 @@
-# **👋 Hi, I'm Don Michael. Nice to meet you here on my Github.**
+# **👋 Hello, I'm Don Michael, it's nice to meet you here on my Github.**
 
 <p align="center">
   <img src="me.png" width="420">
@@ -60,7 +60,8 @@ Everything is built around **clarity, determinism, and trust**.
 
 ## **🎓 Education**
 
-- Penn State University — B.S. Business (Marketing & Management)  
+- Pennsylvania State University — B.S. Business (Concentration in Marketing & Management) 
+- Pursuing University of Pennsylvania in January 2027 in Computer Science, M.S. (Focus in AI)
 
 ---
 
@@ -83,17 +84,12 @@ I design systems that are:
 - American Red Cross: Platelet Donor. Currently at 40 units given to individuals in dire need for life support.
 - Chopan Foundation: A Middle East Christian nonprofit that supports children and families dealing with hardship.
 
-## 🌐 **Founder of Calintio**
-
-A systems‑focused research company building deterministic substrates for agentic‑AI and scientific computation.  
-[https://github.com/Calintio](https://github.com/Calintio)
-
 ---
 
 ## **🤝 Connect**
 
 - Research discussion: open an issue  
-- Open source: MIT‑licensed unless noted  
+- Open source: MIT‑licensed
 - Collaboration: issues preferred  
 - Email: **dfeen87@gmail.com**
 
