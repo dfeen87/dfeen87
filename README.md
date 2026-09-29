@@ -43,7 +43,7 @@ Governance defines permitted action; context supplies attributable state; runtim
 
 | **Repository** | **What it explores** |
 |---|---|
-| **[AILEE Trust Layer](https://github.com/dfeen87/AILEE-Trust)** | Deterministic governance and trust middleware between model output and system action. |
+| **[AILEE Trust Layer](https://github.com/dfeen87/AILEE-Trust-Layer)** | Deterministic governance and trust middleware between model output and system action. |
 | **[Ambient AI + VCP System](https://github.com/dfeen87/Ambient-AI-VCP-System)** | Distributed, verifiable AI compute with node orchestration, trust scoring, and cryptographic verification. |
 | **[AeroCam](https://github.com/dfeen87/AeroCam)** | Embedded C++, motion intelligence, computer vision, stabilization, and camera-system research. |
 | **[Trust Beacon](https://github.com/dfeen87/Trust-Beacon)** | Fail-closed trust indicators for camera-enabled smart glasses and visible bystander disclosure. |
