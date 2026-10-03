@@ -1,7 +1,7 @@
 # **👋 Hello, I'm Don Michael.**
 
 <p align="center">
-  <img src="me.png" width="420" alt="Don Michael">
+  <img src="me1.png" width="420" alt="Don Michael">
 </p>
 
 ### **Systems Architect • Agentic-AI Safety Researcher • Designer of Deterministic Substrates**
