@@ -47,7 +47,7 @@ Governance defines permitted action; context supplies attributable state; runtim
 | **[Ambient AI + VCP System](https://github.com/dfeen87/Ambient-AI-VCP-System)** | Distributed, verifiable AI compute with node orchestration, trust scoring, and cryptographic verification. |
 | **[AeroCam](https://github.com/dfeen87/AeroCam)** | Embedded C++, motion intelligence, computer vision, stabilization, and camera-system research. |
 | **[Trust Beacon](https://github.com/dfeen87/Trust-Beacon)** | Fail-closed trust indicators for camera-enabled smart glasses and visible bystander disclosure. |
-| **[Phase-Memory Operator](https://github.com/dfeen87/Phase-Memory-Operator)** | Deterministic regime-shift detection using phase deviation, drift, and accumulated memory. |
+| **[U.F.O.](https://github.com/dfeen87/UFO)** | DA governed radial membrane architecture for compute‑aware AI behavior. Integrates deformable geometry, V‑channel routing, stability signals, and cost‑bounded reasoning. Provides membrane visualization, governor dynamics, L.D.E. encoding, and reproducible simulation modules. |
 | **[Context Broker](https://github.com/dfeen87/Context-Broker)** | Time-bounded, attributable context exchange between AI systems, devices, and applications. |
 | **[DS-EV Battery Enhancement Software](https://github.com/dfeen87/DS-EV-Battery-Enhancement-Software)** | A research architecture for governed battery-state analysis, simulation, and auditable decision support. |
 
