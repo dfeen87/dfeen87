@@ -1,4 +1,5 @@
 # **👋 Hello, I'm Don Michael.**
+## "Design top-down. Verify bottom-up. Release with evidence."
 
 <p align="center">
   <img src="me1.png" width="420" alt="Don Michael">
