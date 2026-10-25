@@ -110,7 +110,7 @@ https://www.informationphysicsinstitute.org/
 
 <div align="center">
 
-<img src="Brulemon(2).gif" width="160" alt="Brulemon" />
+<img src="Brulemon.gif" width="160" alt="Brulemon" />
 
 <sub>🐾 Brulemon — Chief Morale Officer</sub>
 
