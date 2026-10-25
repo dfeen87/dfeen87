@@ -117,7 +117,7 @@ https://www.informationphysicsinstitute.org/
 </div>
 
 
-### **Built with Curiosity, Care, and Scientific Rigor**
+### **Building with Curiosity, Care, and Scientific Rigor**
 
 *Independent research guided by a love of building, a respect for evidence, and a commitment to making complex technology easier to understand and trust.*
 
