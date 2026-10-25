@@ -98,6 +98,9 @@ My perspective is shaped by hands-on manufacturing, quality work, technical writ
 ---
 
 ### Member of Information Physics Institute
+
+An international research organization exploring the fundamental role of information in physics, computing, and the universe. I'm proud to be part of a community that brings together curious minds, encourages scientific inquiry, and explores questions that cross traditional disciplines. 
+
 https://www.informationphysicsinstitute.org/
 
 ---
