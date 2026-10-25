@@ -7,17 +7,17 @@
   <img src="me3.png" width="420" alt="Don Michael">
 </p>
 
-### **Systems Architect • Agentic-AI Safety Researcher • Designer of Deterministic Substrates**
+### **Systems Architect • AI Safety Researcher • Independent Builder**
 
-I build deterministic, governed computational systems where **AI, physical systems, and high-liability decision-making** intersect. My work asks how a system can remain understandable and safe under real constraints: make state explicit, define boundaries, constrain unsafe transitions, preserve fallback paths, and leave an audit trail.
+I build systems where **AI, software, and the physical world** meet. What drives me is a simple question: how can we make powerful technology understandable, dependable, and worthy of trust? I work toward that by setting clear boundaries, making decisions traceable, preparing for failure, and letting evidence speak for the work.
 
-This profile is the front door to an independent research program spanning software, hardware, mathematics, and scientific tooling. Across those domains, the goal is consistent: turn **clarity, determinism, trust, reproducibility, auditability, and safety** into properties of the architecture—not assumptions about its operators.
+These repositories are my independent research workshop, spanning software, hardware, mathematics, music, animation, and scientific tools. I enjoy following difficult questions across disciplines, then doing the careful work to make each idea testable, reproducible, and useful to others.
 
 ---
 
 ## **Research Program**
 
-The repositories apply a common systems philosophy at different layers:
+The projects take different paths, but the engineering commitments behind them are shared:
 
 - **Governance and context** — trust membranes, attributable context transfer, policy constraints, and bounded behavior for agentic systems.
 - **Runtime and verification** — deterministic pipelines, distributed and verifiable computation, reproducible evaluation, and explicit failure handling.
@@ -25,7 +25,7 @@ The repositories apply a common systems philosophy at different layers:
 - **Mathematical and scientific foundations** — nonlinear dynamics, phase memory, invariant-driven modeling, simulation, and falsifiable reference implementations.
 - **Interoperability** — practical bridges between legacy and modern compute without hiding system state or weakening governance boundaries.
 
-These are not disconnected projects. They explore the same question from different directions: **how can complex systems act usefully while remaining inspectable, constrained, recoverable, and worthy of trust?**
+Different projects, one recurring challenge: **how can we make complex systems useful without losing the ability to understand, test, and recover them?**
 
 ### **Research Architecture**
 
@@ -61,7 +61,7 @@ Governance defines permitted action; context supplies attributable state; runtim
 
 ## **Engineering Principles**
 
-I favor systems that are:
+Whatever I'm building, these are the qualities I work toward:
 
 - **Interpretable** — important state and decision boundaries are visible.
 - **Deterministic where it matters** — identical inputs and conditions support reproducible evaluation.
@@ -75,6 +75,8 @@ The work is research-stage unless a repository states otherwise. I use terms suc
 ---
 
 ## **Background & Education**
+
+My perspective is shaped by hands-on manufacturing, quality work, technical writing, and independent research. They've taught me that good engineering involves not just getting something to work, but making it clear, dependable, and considerate of the people who rely on it.
 
 - **Quality, Manufacturing & Validation** — Technical Writing, Assembly, Logistics
 - **Systems & Research Writing** — Grants, Business Development
@@ -97,8 +99,8 @@ The work is research-stage unless a repository states otherwise. I use terms suc
 
 <div align="center">
 
-### **Built on Determinism, Safety, and Scientific Rigor**
+### **Built with Curiosity, Care, and Scientific Rigor**
 
-*Architecture-level research for computational and physical systems that need explicit boundaries, reproducible behavior, and accountable decisions.*
+*Independent research guided by a love of building, a respect for evidence, and a commitment to making complex technology easier to understand and trust.*
 
 </div>
