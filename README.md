@@ -44,6 +44,8 @@ Governance defines permitted action; context supplies attributable state; runtim
 
 ## **Noteworthy and favorite Repositories**
 
+**Where to start:** Follow what sparks your curiosity. **AILEE Trust Layer**, **Context Broker**, **Ambient AI + VCP System**, and **U.F.O.** explore how intelligent systems can remain trustworthy, understandable, and accountable. **AeroCam** and **DS-EV** bring computation closer to physical engineering, while **ISLA** and **ZORG Animation Engine** explore what engineering can express through sound, motion, and mathematics. Each project stands on its own, inviting exploration from a different perspective.
+
 | **Repository** | **What it explores** |
 |---|---|
 | **[AILEE Trust Layer](https://github.com/dfeen87/AILEE-Trust-Layer)** | An adaptive trust and governance middleware architecture that evaluates AI-generated decisions before they become system actions. Integrates deterministic trust scoring, confidence thresholds, contextual mediation (GRACE), distributed consensus, auditable decision pathways, and stability-preserving fallback mechanisms across multiple computational and industrial domains. |
@@ -55,11 +57,11 @@ Governance defines permitted action; context supplies attributable state; runtim
 | **[DS-EV](https://github.com/dfeen87/DS-EV)** | A research-stage electric-vehicle battery intelligence and energy-governance architecture investigating dual-state battery modeling, degradation estimation, regenerative-energy management, and battery-aware power control. Combines C++/Python simulation, safety-boundary enforcement, energy-continuity accounting, and auditable BMS middleware, with physical vehicle validation remaining outside its established capabilities. |
 | **[ZORG-Animation-Engine](https://github.com/dfeen87/ZORG-Animation-Engine)** | Exploring the intersection of mathematics, motion, and visual expression through procedural geometry, governed numerical dynamics, and reproducible simulation. Transforming mathematical fields and computational principles into expressive visual forms, advancing new possibilities in animation and creative computing. |
 
-**Where to start:** begin with **AILEE Trust Layer** for the governance model, then follow **Context Broker** and **Ambient AI + VCP System** through context, execution, and verification. **AeroCam**, **Trust Beacon**, and **DS-EV** show those principles applied at physical-system boundaries; **Phase-Memory Operator** provides a mathematical lens on state change and memory.
-
 ---
 
 ## **Engineering Principles**
+
+**Reproducibility is a foundation of my engineering, not simply an objective I hope to achieve.** I build with documented methods, repeatable processes, rigorous testing, and evidence that others can examine, reproduce, and challenge. I take pride in this foundation while recognizing there is always more to learn, question, and improve.
 
 Whatever I'm building, these are the qualities I work toward:
 
