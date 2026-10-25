@@ -97,6 +97,11 @@ My perspective is shaped by hands-on manufacturing, quality work, technical writ
 
 ---
 
+### Member of Information Physics Institute
+https://www.informationphysicsinstitute.org/
+
+---
+
 <div align="center">
 
 ### **Built with Curiosity, Care, and Scientific Rigor**
