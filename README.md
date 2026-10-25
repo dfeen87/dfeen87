@@ -15,7 +15,7 @@ This profile is the front door to an independent research program spanning softw
 
 ---
 
-## **🔭 Research Program**
+## **Research Program**
 
 The repositories apply a common systems philosophy at different layers:
 
@@ -42,7 +42,7 @@ Governance defines permitted action; context supplies attributable state; runtim
 
 ---
 
-## **🌟 Featured Research Repositories**
+## **Noteworthy and favorite Repositories**
 
 | **Repository** | **What it explores** |
 |---|---|
@@ -53,12 +53,13 @@ Governance defines permitted action; context supplies attributable state; runtim
 | **[U.F.O.](https://github.com/dfeen87/UFO)** | A governed, compute-aware AI architecture modeling adaptive behavior and computational constraints through a deformable radial membrane and dynamically routed V-Channels. Integrates bounded reasoning, geometric stability control, behavioral governance, trust memory, adaptive recurrence, and auditable simulation to investigate computationally responsible AI personalization. |
 | **[Context Broker](https://github.com/dfeen87/Context-Broker)** | A vendor-neutral context-interoperability framework supporting controlled information exchange between AI systems, software applications, and connected devices. Uses explicitly authorized, time-bounded, attributable context packets with deterministic expiration, provenance tracking, and ALCOA-oriented auditability to reduce uncontrolled persistence and cross-system ambiguity. |
 | **[DS-EV](https://github.com/dfeen87/DS-EV)** | A research-stage electric-vehicle battery intelligence and energy-governance architecture investigating dual-state battery modeling, degradation estimation, regenerative-energy management, and battery-aware power control. Combines C++/Python simulation, safety-boundary enforcement, energy-continuity accounting, and auditable BMS middleware, with physical vehicle validation remaining outside its established capabilities. |
+| **[ZORG-Animation-Engine](https://github.com/dfeen87/ZORG-Animation)** | Exploring the intersection of mathematics, motion, and visual expression through procedural geometry, governed numerical dynamics, and reproducible simulation. Transforming mathematical fields and computational principles into expressive visual forms, advancing new possibilities in animation and creative computing. |
 
 **Where to start:** begin with **AILEE Trust Layer** for the governance model, then follow **Context Broker** and **Ambient AI + VCP System** through context, execution, and verification. **AeroCam**, **Trust Beacon**, and **DS-EV** show those principles applied at physical-system boundaries; **Phase-Memory Operator** provides a mathematical lens on state change and memory.
 
 ---
 
-## **⚙️ Engineering Principles**
+## **Engineering Principles**
 
 I favor systems that are:
 
@@ -73,29 +74,26 @@ The work is research-stage unless a repository states otherwise. I use terms suc
 
 ---
 
-## **💼 Background & Education**
+## **Background & Education**
 
-- **Quality, Manufacturing & Validation** — Merck, Accupac, and Microsize.
-- **Systems & Research Writing** — Orbital Robotics, including ITAR-compliant SBIR technical work.
-- **Independent Research** — agentic-AI safety, biosignal modeling, deterministic systems, and reproducible scientific infrastructure.
-- **Pennsylvania State University** — B.S. in Business, with a concentration in Marketing and Management.
-- **University of Pennsylvania** — pursuing an M.S. in Computer Science beginning January 2027, with a focus on AI.
+- **Quality, Manufacturing & Validation** — Technical Writing, Assembly, Logistics
+- **Systems & Research Writing** — Grants, Business Development
+- **Independent Research** — agentic-AI, biosignal modeling, deterministic systems, reproducible scientific infrastructure
 
 ---
 
-## **❤️ Nonprofit Work**
+## College Education
 
-- Financial supporter of the **World Food Programme**.
-- **American Red Cross** platelet donor, with 40 units donated.
-- Supporter of the **Chopan Foundation**, serving children and families facing hardship in the Middle East.
+- **Pennsylvania State University** — B.S. Business, Marketing and Management
 
 ---
 
-## **🤝 Connect**
+## **Nonprofit Work**
 
-- **Research discussion and collaboration:** open an issue in the relevant repository.
-- **Open source:** research repositories are MIT-licensed where noted.
-- **Email:** **dfeen87@gmail.com**
+- **World Food Programme** — Financial Donor
+- **American Red Cross** — Platelet Donor
+
+---
 
 <div align="center">
 
