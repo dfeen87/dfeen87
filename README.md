@@ -4,7 +4,7 @@
 *Creativity and technical rigor are complementary phases of the same engineering process.*
 
 <p align="center">
-  <img src="GithubREADME.jng" width="420" alt="Don Michael">
+  <img src="GithubREADME.png" width="520" alt="Don Michael">
 </p>
 
 ### **Systems Architect • AI Safety Researcher • Independent Builder**
