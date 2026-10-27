@@ -116,10 +116,7 @@ https://www.informationphysicsinstitute.org/
 
 <img src="Brulemon.gif" width="160" alt="Brulemon" />
 
-<sub>🐾 Brulemon — Chief Morale Officer</sub>
-
 </div>
-
 
 ### **Building with Curiosity, Care, and Scientific Rigor**
 
