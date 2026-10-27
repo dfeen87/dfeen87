@@ -126,3 +126,7 @@ https://www.informationphysicsinstitute.org/
 *Independent research guided by a love of building, a respect for evidence, and a commitment to making complex technology easier to understand and trust.*
 
 </div>
+
+<p align="center">
+  <img src="Autumn Lakeside Flag Under Blue Skies.png" width="420" alt="America is beautiful.">
+</p>
