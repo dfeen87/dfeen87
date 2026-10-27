@@ -120,9 +120,7 @@ https://www.informationphysicsinstitute.org/
 
 ### **Building with Curiosity, Care, and Scientific Rigor**
 
-*Independent research guided by a love of building, a respect for evidence, and a commitment to making complex technology easier to understand and trust.*
-
-</div>
+*Independent research guided by the love of building.*
 
 <p align="center">
   <img src="Autumn Lakeside Flag Under Blue Skies.png" width="420" alt="America is beautiful.">
