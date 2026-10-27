@@ -4,10 +4,12 @@
 *Creativity and technical rigor are complementary phases of the same engineering process.*
 
 <p align="center">
-  <img src="GithubREADME.png" width="420" alt="Don Michael">
+  <img src="Cinematic Billiards Under Blue Glass.png" width="420" alt="Don Michael">
 </p>
 
-### **Systems Architect • AI Safety Researcher • Independent Builder**
+<h3 align="center">
+  Systems Architect • AI Safety Researcher • Independent Builder
+</h3>
 
 I build systems where **AI, software, and the physical world** meet. What drives me is a simple question: how can we make powerful technology understandable, dependable, and worthy of trust? I work toward that by setting clear boundaries, making decisions traceable, preparing for failure, and letting evidence speak for the work.
 
