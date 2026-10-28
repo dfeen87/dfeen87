@@ -44,6 +44,20 @@ Governance defines permitted action; context supplies attributable state; runtim
 
 ---
 
+### My Engineering Philosophy
+
+I begin with a vision of what a system should accomplish, then work downward through its architecture, features, and user experience.
+
+I believe the user experience should inform the design from the beginning, not simply emerge after the underlying logic is implemented.
+
+As development progresses, I move continuously between interface design, application logic, and data architecture. Each layer challenges and informs the others, revealing constraints, opportunities, and sometimes entirely new ideas.
+
+I verify from the foundations upward, allowing evidence and discovered invariants to challenge my original assumptions.
+
+**Design establishes the vision. Verification establishes what is true. Iteration connects the two.**
+
+---
+
 ## **Noteworthy and favorite Repositories**
 
 **Where to start:** Follow what sparks your curiosity. **AILEE Trust Layer**, **Context Broker**, **Ambient AI + VCP System**, and **U.F.O.** explore how intelligent systems can remain trustworthy, understandable, and accountable. **AeroCam** and **DS-EV** bring computation closer to physical engineering, while **ISLA** and **ZORG Animation Engine** explore what engineering can express through sound, motion, and mathematics. Each project stands on its own, inviting exploration from a different perspective.
