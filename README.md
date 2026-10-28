@@ -1,17 +1,43 @@
-# **👋 Hello, I'm Don Michael.**
-"**Design top-down. Verify bottom-up. Iterate across.**"
 
-*Creativity and technical rigor are complementary phases of the same engineering process.*
+<div align="center">
 
-<p align="center">
-  <img src="Cinematic Billiards Under Blue Glass.png" width="420" alt="Don Michael">
-</p>
+  <h1>👋 Hello, I'm Don.</h1>
 
-<h3 align="center">
-  Systems Architect • AI Safety Researcher • Independent Builder
-</h3>
+  <h3>
+    I build with curiosity, care, and scientific rigor.
+  </h3>
 
-I build systems where **AI, software, and the physical world** meet. What drives me is a simple question: how can we make powerful technology understandable, dependable, and worthy of trust? I work toward that by setting clear boundaries, making decisions traceable, preparing for failure, and letting evidence speak for the work.
+  <p>
+    <strong>
+      Design Top-Down. Verify Bottom-Up. Iterate Across.
+    </strong>
+  </p>
+
+  <p>
+    <img
+      src="Cinematic Billiards Under Blue Glass.png"
+      width="420"
+      alt="Cinematic Billiards Under Blue Glass"
+    />
+  </p>
+
+  <p>
+    <em>
+      Independent research, guided by a love of building.
+    </em>
+  </p>
+
+</div>
+
+---
+
+I build systems where **AI, software, and the physical world** meet.
+
+What drives me is a simple question:
+
+**How can we make powerful technology understandable, dependable, and worthy of trust?**
+
+I work toward that by setting clear boundaries, making decisions traceable, preparing for failure, and letting evidence speak for the work.
 
 ---
 
@@ -116,24 +142,34 @@ An international research organization exploring the fundamental role of informa
 
 https://www.informationphysicsinstitute.org/
 
+
 ---
 
 <div align="center">
 
+  <h3>Thank you for reading my GitHub README.</h3>
 
-<div align="center">
+  <p>
+    <img
+      src="Brulemon.gif"
+      width="160"
+      alt="Brulemon"
+    />
+  </p>
 
-<img src="Brulemon.gif" width="160" alt="Brulemon" />
+  <p>
+    <img
+      src="Autumn Lakeside Flag Under Blue Skies.png"
+      width="420"
+      alt="American flag overlooking Lake Galena beneath blue skies"
+    />
+  </p>
+
+  <p>
+    <em>
+      A photograph I took at Lake Galena,
+      a beautiful park in historic Bucks County, Pennsylvania.
+    </em>
+  </p>
 
 </div>
-
-### **Building with Curiosity, Care, and Scientific Rigor**
-
-*Independent research guided by the love of building.*
-
-<p align="center">
-  <img src="Autumn Lakeside Flag Under Blue Skies.png" width="420" alt="America is beautiful.">
-</p>
-  A photo I took at Lake Galena, a beautiful park in historical Bucks County, Pennsylvania.
-</p>
-</h3>
