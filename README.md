@@ -1,5 +1,5 @@
 # **👋 Hello, I'm Don Michael.**
-"**Design top-down. Verify bottom-up. Release with evidence.**"
+"**Design top-down. Verify bottom-up. Iterate across.**"
 
 *Creativity and technical rigor are complementary phases of the same engineering process.*
 
