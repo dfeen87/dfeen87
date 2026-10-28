@@ -125,6 +125,6 @@ https://www.informationphysicsinstitute.org/
 <p align="center">
   <img src="Autumn Lakeside Flag Under Blue Skies.png" width="420" alt="America is beautiful.">
 </p>
-  A photo I took at Lake Galena, a beautiful park in historical Bucks, County.
+  A photo I took at Lake Galena, a beautiful park in historical Bucks County, Pennsylvania.
 </p>
 </h3>
