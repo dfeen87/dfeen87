@@ -136,12 +136,47 @@ My perspective is shaped by hands-on manufacturing, quality work, technical writ
 
 ---
 
-### Member of Information Physics Institute
+## Member of Information Physics Institute
 
 An international research organization exploring the fundamental role of information in physics, computing, and the universe. I'm proud to be part of a community that brings together curious minds, encourages scientific inquiry, and explores questions that cross traditional disciplines. 
 
 https://www.informationphysicsinstitute.org/
 
+---
+
+## Publications & Scientific Research
+
+*Independent research at the intersection of artificial intelligence, computational science, information theory, and autonomous systems.*
+
+### Peer-Reviewed Publications
+
+**1. A Proof-of-Concept Deterministic Phase-Memory Operator for Respiratory Instability Detection Using Chest-Mounted Smartphone IMU Signals**
+
+Peer-reviewed research presenting a deterministic, reproducible approach to detecting respiratory instability using smartphone inertial measurements.
+
+**DOI:** [10.47852/bonviewSWT62029484](https://doi.org/10.47852/bonviewSWT62029484)
+
+**2. Information-Theoretic Modeling of Neural Coherence via Triadic Spiral-Time Dynamics: A Framework for Neurodynamic Collapse**
+
+Co-authored with Marcel Krüger and Marcel Theodor Wende. Research exploring information-theoretic measures and geometric representations of neural coherence.
+
+**DOI:** [10.47852/bonviewMEDIN62029043](https://doi.org/10.47852/bonviewMEDIN62029043)
+
+### Accepted & Under-Review Manuscripts
+
+**3. Deterministic Spiral-Time Governance for Safe Execution Filtering under Hallucinations in LLM-Controlled Climbing and Walking Robots**
+
+**Status:** Accepted for publication — *Journal of Climbing and Walking Robots*. DOI forthcoming.
+
+Research investigating deterministic governance and safety filtering for artificial intelligence systems controlling embodied robotic execution.
+
+**4. Detection of Solar Plasma Instabilities Using Multi-Channel GOES Observations: Toward Early Solar Flare Forecasting**
+
+**Status:** Under peer review — *Archives of Advanced Engineering Science*.
+
+Collaborative research with Marcel Krüger involving GOES solar X-ray observations, computational analysis, scientific validation, and reproducibility.
+
+The ongoing revision examines the distinction between retrospective solar-flare associations and demonstrated forecasting capability, emphasizing transparent reporting of negative findings, methodological limitations, and reproducible evidence.
 
 ---
 
