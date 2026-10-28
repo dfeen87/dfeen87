@@ -41,9 +41,9 @@ The projects take different paths, but the engineering commitments behind them a
 
 Different projects, one recurring challenge: **how can we make complex systems useful without losing the ability to understand, test, and recover them?**
 
-### **Research Architecture**
+### Engineering Architecture
 
-
+```mermaid
 flowchart LR
     A[Governance] --> B[Context]
     B --> C[Runtime]
@@ -52,6 +52,7 @@ flowchart LR
 
     D <--> A
     A --> E
+```
 
 Governance defines permitted action and establishes the boundaries of the system; context supplies attributable state; runtimes execute within those boundaries; verification continuously informs and refines governance; and physical systems provide the ultimate real-world test of whether the architecture behaves as intended.
 
