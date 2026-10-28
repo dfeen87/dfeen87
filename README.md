@@ -43,8 +43,8 @@ Different projects, one recurring challenge: **how can we make complex systems u
 
 ### Engineering Architecture
 
-```mermaid
 flowchart LR
+```mermaid
     A[Governance] --> B[Context]
     B --> C[Runtime]
     C --> D[Verification]
@@ -53,7 +53,6 @@ flowchart LR
     D <--> A
     A --> E
 ```
-
 Governance defines permitted action and establishes the boundaries of the system; context supplies attributable state; runtimes execute within those boundaries; verification continuously informs and refines governance; and physical systems provide the ultimate real-world test of whether the architecture behaves as intended.
 
 ---
