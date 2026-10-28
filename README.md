@@ -144,39 +144,71 @@ https://www.informationphysicsinstitute.org/
 
 ---
 
-## Publications & Scientific Research
+## Publications & Research
 
-*Independent research at the intersection of artificial intelligence, computational science, information theory, and autonomous systems.*
+*Computational science · Information theory · Autonomous systems · Scientific verification*
 
-### Peer-Reviewed Publications
+### Published & Peer-Reviewed
 
-**1. A Proof-of-Concept Deterministic Phase-Memory Operator for Respiratory Instability Detection Using Chest-Mounted Smartphone IMU Signals**
+**01 — Respiratory Instability Detection**
 
-Peer-reviewed research presenting a deterministic, reproducible approach to detecting respiratory instability using smartphone inertial measurements.
+**[A Proof-of-Concept Deterministic Phase-Memory Operator for Respiratory Instability Detection Using Chest-Mounted Smartphone IMU Signals](https://doi.org/10.47852/bonviewSWT62029484)**
 
-**DOI:** [10.47852/bonviewSWT62029484](https://doi.org/10.47852/bonviewSWT62029484)
+**Published** · [DOI: 10.47852/bonviewSWT62029484](https://doi.org/10.47852/bonviewSWT62029484)
 
-**2. Information-Theoretic Modeling of Neural Coherence via Triadic Spiral-Time Dynamics: A Framework for Neurodynamic Collapse**
+<details>
+<summary>Research overview</summary>
 
-Co-authored with Marcel Krüger and Marcel Theodor Wende. Research exploring information-theoretic measures and geometric representations of neural coherence.
+Deterministic, reproducible analysis of respiratory instability using chest-mounted smartphone inertial measurements.
 
-**DOI:** [10.47852/bonviewMEDIN62029043](https://doi.org/10.47852/bonviewMEDIN62029043)
+</details>
 
-### Accepted & Under-Review Manuscripts
+---
 
-**3. Deterministic Spiral-Time Governance for Safe Execution Filtering under Hallucinations in LLM-Controlled Climbing and Walking Robots**
+**02 — Neural Coherence & Spiral-Time Dynamics**
 
-**Status:** Accepted for publication — *Journal of Climbing and Walking Robots*. DOI forthcoming.
+**[Information-Theoretic Modeling of Neural Coherence via Triadic Spiral-Time Dynamics: A Framework for Neurodynamic Collapse](https://doi.org/10.47852/bonviewMEDIN62029043)**
 
-Research investigating deterministic governance and safety filtering for artificial intelligence systems controlling embodied robotic execution.
+**Published** · [DOI: 10.47852/bonviewMEDIN62029043](https://doi.org/10.47852/bonviewMEDIN62029043)
 
-**4. Detection of Solar Plasma Instabilities Using Multi-Channel GOES Observations: Toward Early Solar Flare Forecasting**
+<details>
+<summary>Research overview</summary>
 
-**Status:** Under peer review — *Archives of Advanced Engineering Science*.
+Co-authored with Marcel Krüger and Marcel Theodor Wende. Explores information-theoretic measures and geometric representations of neural coherence.
 
-Collaborative research with Marcel Krüger involving GOES solar X-ray observations, computational analysis, scientific validation, and reproducibility.
+</details>
 
-The ongoing revision examines the distinction between retrospective solar-flare associations and demonstrated forecasting capability, emphasizing transparent reporting of negative findings, methodological limitations, and reproducible evidence.
+### Accepted & Under Review
+
+**03 — Deterministic Governance for Embodied AI**
+
+**Deterministic Spiral-Time Governance for Safe Execution Filtering under Hallucinations in LLM-Controlled Climbing and Walking Robots**
+
+**Accepted** · *Journal of Climbing and Walking Robots* · DOI forthcoming
+
+<details>
+<summary>Research overview</summary>
+
+Investigates deterministic safety filtering, governance constraints, and execution control for language-model-guided climbing and walking robots.
+
+</details>
+
+---
+
+**04 — Solar-Flare Analysis & Scientific Verification**
+
+**Detection of Solar Plasma Instabilities Using Multi-Channel GOES Observations: Toward Early Solar Flare Forecasting**
+
+**Under Peer Review** · *Archives of Advanced Engineering Science*
+
+<details>
+<summary>Research overview</summary>
+
+Collaborative research with Marcel Krüger focused on GOES solar observations, computational verification, and scientific reproducibility.
+
+The ongoing revision evaluates what the preserved evidence actually establishes, including negative findings, retrospective selection effects, and limitations of forecasting interpretations.
+
+</details>
 
 ---
 
