@@ -33,6 +33,8 @@
 
 I build systems where **AI, software, and the physical world** meet.
 
+I develop and maintain open-source software released under the MIT License.
+
 What drives me is a simple question:
 
 **How can we make powerful technology understandable, dependable, and worthy of trust?**
