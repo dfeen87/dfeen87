@@ -146,16 +146,25 @@ https://www.informationphysicsinstitute.org/
 
 ## Publications & Research
 
-**Respiratory Instability Detection**
 
 **[A Proof-of-Concept Deterministic Phase-Memory Operator for Respiratory Instability Detection Using Chest-Mounted Smartphone IMU Signals](https://doi.org/10.47852/bonviewSWT62029484)**
 
-**Published** · *Smart Wearable Technology* · May 13, 2026
+<details>
+<summary><strong>Details</strong></summary>
+
+**Research Area:** Respiratory Instability Detection
+
+**Status:** Published · Peer-Reviewed
+
+**Journal:** *Smart Wearable Technology*
+
+**Publication Date:** May 13, 2026
 
 **DOI:** [10.47852/bonviewSWT62029484](https://doi.org/10.47852/bonviewSWT62029484)
 
-<details>
-<summary>Research overview</summary>
+---
+
+### Research Overview
 
 Co-authored with Marcel Krüger, this peer-reviewed research introduces a deterministic phase-memory framework for identifying changes in respiratory patterns using chest-mounted smartphone motion sensors.
 
@@ -163,9 +172,15 @@ Rather than relying on opaque machine-learning models, the proposed method measu
 
 The framework was evaluated using five publicly available respiratory recordings with controlled breathing irregularities, including frequency drift, intermittent pauses, and burst-like disturbances. Experimental results demonstrated reproducible responses to these perturbations, while the reference Python implementation processed 60-second respiratory signals in approximately 2.37 milliseconds.
 
+### My Contributions
+
 My contributions included software engineering, computational validation, methodology, and reproducibility infrastructure.
 
+### Scientific Significance
+
 The study establishes a foundation for further investigation of lightweight, interpretable wearable sensing, while explicitly distinguishing proof-of-concept feasibility from clinical validation.
+
+### Research Resources
 
 **Source Code:** [Smartphone-Based Chest Monitoring](https://github.com/dfeen87/Smartphone-Based-Chest-Monitoring)
 
@@ -173,22 +188,45 @@ The study establishes a foundation for further investigation of lightweight, int
 
 ---
 
-**Neural Coherence & Spiral-Time Dynamics**
 
 **[Information-Theoretic Modeling of Neural Coherence via Triadic Spiral-Time Dynamics: A Framework for Neurodynamic Collapse](https://doi.org/10.47852/bonviewMEDIN62029043)**
 
-**Published** · *Medinformatics* · April 3, 2026
+<details>
+<summary><strong>Details</strong></summary>
+
+**Research Area:** Neural Coherence & Spiral-Time Dynamics
+
+**Status:** Published · Peer-Reviewed
+
+**Journal:** *Medinformatics*
+
+**Publication Date:** April 3, 2026
 
 **DOI:** [10.47852/bonviewMEDIN62029043](https://doi.org/10.47852/bonviewMEDIN62029043)
 
-<details>
-<summary>Research overview</summary>
+---
 
-Co-authored with Marcel Krüger and Marcel Theodor Wende, this peer-reviewed theoretical research introduces a unified information-theoretic and geometric framework for investigating neural coherence, cognitive organization, and transitions between stable and unstable neurodynamic states. The study integrates the Helix–Light–Vortex (HLV) triadic spiral-time operator, the DLHR multi-layer psychological architecture, and proposed neurophotonic coupling mechanisms into a common mathematical formulation. 
+### Research Overview
 
-By examining relationships between temporal dynamics, emotional regulation, memory, identity, and phase coherence, the framework establishes testable hypotheses for future computational and experimental investigation. Potential validation pathways include electroencephalography (EEG), magnetoencephalography (MEG), heart-rate variability, and advanced quantum-sensing methods. The accompanying EEG analysis offers an exploratory illustration of selected model quantities rather than definitive validation of the full theoretical framework. 
+Co-authored with Marcel Krüger and Marcel Theodor Wende, this peer-reviewed theoretical research introduces a unified information-theoretic and geometric framework for investigating neural coherence, cognitive organization, and transitions between stable and unstable neurodynamic states.
+
+The study integrates the Helix–Light–Vortex (HLV) triadic spiral-time operator, the DLHR multi-layer psychological architecture, and proposed neurophotonic coupling mechanisms into a common mathematical formulation.
+
+By examining relationships between temporal dynamics, emotional regulation, memory, identity, and phase coherence, the framework establishes testable hypotheses for future computational and experimental investigation.
+
+Potential validation pathways include electroencephalography (EEG), magnetoencephalography (MEG), heart-rate variability, and advanced quantum-sensing methods. The accompanying EEG analysis offers an exploratory illustration of selected model quantities rather than definitive validation of the full theoretical framework.
+
+### My Contributions
 
 My credited contributions included conceptualization and scientific manuscript review and editing.
+
+### Scientific Significance
+
+The research proposes a theoretical foundation for investigating relationships between information dynamics, temporal organization, and neural coherence.
+
+Its scientific value lies in establishing mathematical representations and hypotheses that can be examined through future computational and experimental studies. The complete framework remains subject to further empirical validation.
+
+### Research Resources
 
 **Research Code:** [NeuroDynamics Collapse Validation](https://github.com/nwycomp/NeuroDynamics-Collapse-Validation-/blob/main/eeg-part-four.ipynb)
 
@@ -198,26 +236,53 @@ My credited contributions included conceptualization and scientific manuscript r
 
 ---
 
-**Deterministic Governance for Embodied AI**
 
 **Deterministic Spiral-Time Governance for Safe Execution Filtering under Hallucinations in LLM-Controlled Climbing and Walking Robots**
 
-**Accepted** · *Journal of Climbing and Walking Robots* · DOI forthcoming
-
 <details>
-<summary>Research overview</summary>
+<summary><strong>Details</strong></summary>
+
+**Research Area:** Deterministic Governance for Embodied AI
+
+**Status:** Accepted for Publication
+
+**Journal:** *Journal of Climbing and Walking Robots*
+
+**DOI:** Forthcoming
+
+---
+
+### Research Overview
 
 Co-authored with Marcel Krüger, this research introduces a deterministic Spiral-Time Governor designed to improve execution safety in climbing and walking robots controlled by Large Language Models (LLMs).
 
-Rather than modifying the underlying language model, the framework introduces an external supervisory layer that evaluates proposed actions and environmental claims against verifiable system information. A deterministic instability function combines structural, informational, and contextual coherence deviations with temporal changes to regulate three operating modes: **EXECUTE, VERIFY, and SAFE**.
+Rather than modifying the underlying language model, the framework introduces an external supervisory layer that evaluates proposed actions and environmental claims against verifiable system information.
 
-The research establishes a formal supervisory architecture, a discrete Lyapunov-based boundedness argument under defined assumptions, and a reproducible experimental framework. Evaluation includes controlled synthetic simulations involving climbing, stair navigation, and gap traversal, followed by physics-grounded validation using a MuJoCo quadruped environment.
+A deterministic instability function combines structural, informational, and contextual coherence deviations with temporal changes to regulate three operating modes: **EXECUTE, VERIFY, and SAFE**.
 
-In the MuJoCo proof of concept, the governor reduced average safety violations from **11.4 to 4.7 per episode**, representing approximately a **59% reduction**, without changing the simulated hallucination rate. These results demonstrate the potential value of deterministic execution filtering, while distinguishing simulation-based validation from proven safety on physical robotic hardware.
+The research establishes a formal supervisory architecture, a discrete Lyapunov-based boundedness argument under defined assumptions, and a reproducible experimental framework.
+
+Evaluation includes controlled synthetic simulations involving climbing, stair navigation, and gap traversal, followed by physics-grounded validation using a MuJoCo quadruped environment.
+
+In the MuJoCo proof of concept, the governor reduced average safety violations from **11.4 to 4.7 per episode**, representing approximately a **59% reduction**, without changing the simulated hallucination rate.
+
+These results demonstrate the potential value of deterministic execution filtering while distinguishing simulation-based validation from proven safety on physical robotic hardware.
+
+### My Contributions
 
 My contributions included implementation of the simulation testbed, experimental execution, data generation, statistical evaluation, computational validation, and technical feedback during manuscript refinement.
 
-The study contributes an interpretable, model-agnostic approach to governing AI-assisted robotic execution, emphasizing deterministic constraints, reproducibility, and auditable safety decisions.
+### Scientific Significance
+
+The study investigates how deterministic governance can provide an auditable safety layer between probabilistic language-model outputs and robotic execution.
+
+Its central contribution is an interpretable, model-agnostic supervisory architecture that applies explicit constraints and verification procedures before proposed actions are executed.
+
+The simulated results suggest that execution-level safety filtering can reduce unsafe actions without requiring changes to the underlying language model.
+
+Further validation on physical robotic hardware remains necessary to establish real-world safety and reliability.
+
+### Research Resources
 
 **Research Manuscript:** [PAPER.md](https://github.com/dfeen87/STG-Embodied-POC/blob/main/PAPER.md)
 
@@ -227,20 +292,51 @@ The study contributes an interpretable, model-agnostic approach to governing AI-
 
 ---
 
-**Solar-Flare Analysis & Scientific Verification**
 
 **Detection of Solar Plasma Instabilities Using Multi-Channel GOES Observations: Toward Early Solar Flare Forecasting**
 
-**Under Peer Review** · *Archives of Advanced Engineering Science*
-
 <details>
-<summary>Research overview</summary>
+<summary><strong>Details</strong></summary>
 
-Co-authored with Marcel Krüger, this ongoing research investigates solar X-ray variability and its relationship to solar-flare activity using observations from the Geostationary Operational Environmental Satellites (GOES). The study explores computational methods for characterizing changes in solar activity while examining the scientific and methodological challenges involved in interpreting observational patterns as potential forecasting indicators.
+**Research Area:** Solar-Flare Analysis & Scientific Verification
 
-My contributions include computational implementation, data processing, software validation, reproducibility infrastructure, and methodological investigation. Particular emphasis is placed on transparent evaluation, the distinction between retrospective associations and genuine predictive information, and the importance of reporting both successful and inconclusive experimental outcomes.
+**Status:** Under Peer Review
 
-The ongoing peer-review revision prioritizes scientific accuracy, reproducibility, and evidence-based interpretation, with the broader objective of strengthening how computational approaches to solar-flare analysis are evaluated and understood.
+**Journal:** *Archives of Advanced Engineering Science*
+
+---
+
+### Research Overview
+
+Co-authored with Marcel Krüger, this ongoing research investigates solar X-ray variability and its relationship to solar-flare activity using observations from the Geostationary Operational Environmental Satellites (GOES).
+
+The study explores computational methods for characterizing changes in solar activity while examining the scientific and methodological challenges involved in interpreting observational patterns as potential forecasting indicators.
+
+The research incorporates computational signal analysis, mathematical evaluation, and reproducibility-focused verification to investigate relationships between solar variability, historical flare activity, and the interpretation of observational evidence.
+
+Particular attention is given to distinguishing retrospective associations from genuine predictive information, evaluating methodological limitations, and ensuring that scientific conclusions remain consistent with the evidence available.
+
+### My Contributions
+
+My contributions include computational implementation, data processing, software validation, reproducibility infrastructure, methodological investigation, and technical analysis supporting the peer-review revision.
+
+I have contributed to examining experimental assumptions, reconstructing computational procedures, verifying historical results, and developing reproducible approaches to evaluating the research findings.
+
+### Scientific Significance
+
+The research examines the methodological challenges involved in evaluating computational indicators of solar-flare activity and their potential relevance to forecasting.
+
+An important objective is to distinguish reproducible numerical results from the scientific interpretations those results can legitimately support.
+
+The ongoing revision emphasizes transparent reporting, careful treatment of experimental uncertainty, and the scientific value of both negative and inconclusive findings.
+
+Rather than treating predictive performance as an assumed outcome, the study prioritizes evidence-based interpretation and the identification of methodological questions that can guide future controlled investigations.
+
+### Research Status
+
+The manuscript is undergoing peer-review revision, with its scientific objectives and interpretations being refined in response to editorial and reviewer feedback.
+
+Final conclusions, manuscript details, and publication information remain subject to completion of the review process.
 
 </details>
 
