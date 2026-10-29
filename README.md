@@ -146,7 +146,6 @@ https://www.informationphysicsinstitute.org/
 
 ## Publications & Research
 
-
 **[A Proof-of-Concept Deterministic Phase-Memory Operator for Respiratory Instability Detection Using Chest-Mounted Smartphone IMU Signals](https://doi.org/10.47852/bonviewSWT62029484)**
 
 <details>
@@ -161,8 +160,6 @@ https://www.informationphysicsinstitute.org/
 **Publication Date:** May 13, 2026
 
 **DOI:** [10.47852/bonviewSWT62029484](https://doi.org/10.47852/bonviewSWT62029484)
-
----
 
 ### Research Overview
 
@@ -186,9 +183,6 @@ The study establishes a foundation for further investigation of lightweight, int
 
 </details>
 
----
-
-
 **[Information-Theoretic Modeling of Neural Coherence via Triadic Spiral-Time Dynamics: A Framework for Neurodynamic Collapse](https://doi.org/10.47852/bonviewMEDIN62029043)**
 
 <details>
@@ -203,8 +197,6 @@ The study establishes a foundation for further investigation of lightweight, int
 **Publication Date:** April 3, 2026
 
 **DOI:** [10.47852/bonviewMEDIN62029043](https://doi.org/10.47852/bonviewMEDIN62029043)
-
----
 
 ### Research Overview
 
@@ -234,9 +226,6 @@ Its scientific value lies in establishing mathematical representations and hypot
 
 </details>
 
----
-
-
 **Deterministic Spiral-Time Governance for Safe Execution Filtering under Hallucinations in LLM-Controlled Climbing and Walking Robots**
 
 <details>
@@ -249,8 +238,6 @@ Its scientific value lies in establishing mathematical representations and hypot
 **Journal:** *Journal of Climbing and Walking Robots*
 
 **DOI:** Forthcoming
-
----
 
 ### Research Overview
 
@@ -290,9 +277,6 @@ Further validation on physical robotic hardware remains necessary to establish r
 
 </details>
 
----
-
-
 **Detection of Solar Plasma Instabilities Using Multi-Channel GOES Observations: Toward Early Solar Flare Forecasting**
 
 <details>
@@ -303,8 +287,6 @@ Further validation on physical robotic hardware remains necessary to establish r
 **Status:** Under Peer Review
 
 **Journal:** *Archives of Advanced Engineering Science*
-
----
 
 ### Research Overview
 
