@@ -146,10 +146,6 @@ https://www.informationphysicsinstitute.org/
 
 ## Publications & Research
 
-*Computational science · Information theory · Autonomous systems · Scientific verification*
-
-### Published & Peer-Reviewed
-
 **Respiratory Instability Detection**
 
 **[A Proof-of-Concept Deterministic Phase-Memory Operator for Respiratory Instability Detection Using Chest-Mounted Smartphone IMU Signals](https://doi.org/10.47852/bonviewSWT62029484)**
