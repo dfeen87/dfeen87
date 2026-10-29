@@ -78,7 +78,7 @@ Different projects, one recurring challenge: **how can we make complex systems u
 Governance defines permitted action and establishes the boundaries of the system; context supplies attributable state; runtimes execute within those boundaries; verification continuously informs and refines governance; and physical systems provide the ultimate real-world test of whether the architecture behaves as intended.
 
 <p align="center">
-  <img src="5 updown.jpeg" width="620" alt="5 Stage">
+  <img src="updown.jpeg" width="620" alt="Relationships">
 </p>
 
 This engineering philosophy establishes a continuous relationship between architectural design, implementation, and verification. Top-down design begins with the intended outcome, defining system responsibilities, interfaces, and invariants before implementation. Bottom-up verification validates individual components, their contracts, and their integration into the complete system. Iteration across connects these processes through incremental, end-to-end feature development, allowing the architecture to evolve as deeper requirements and invariants emerge. The objective is not simply to produce functional code, but to build systems that remain understandable, testable, maintainable, and adaptable as complexity grows.
