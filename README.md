@@ -127,6 +127,8 @@ My perspective is shaped by hands-on manufacturing, quality work, technical writ
 
 - **Pennsylvania State University** — B.S. Business, Marketing and Management
 
+Currently pursuing graduate school, my decision to pursue Applied Science in Computer Science with a focus in Cybersecurity is rooted in a desire to strengthen the foundations behind the systems I've already built. Through independent research, software development, and experimentation with artificial intelligence, I've learned that some of the most valuable opportunities for improvement come from understanding the fundamentals I may have overlooked. As I pursue advanced study, I intend to apply what I learn directly to my existing repositories, gradually improving their architecture, reliability, security, and performance. My goal isn't to replace my previous work, but to build upon it — allowing my portfolio to evolve alongside my education.
+
 ---
 
 ## **Nonprofit Work**
