@@ -148,39 +148,60 @@ https://www.informationphysicsinstitute.org/
 
 *Computational science · Information theory · Autonomous systems · Scientific verification*
 
+
 ### Published & Peer-Reviewed
 
 **01 — Respiratory Instability Detection**
 
 **[A Proof-of-Concept Deterministic Phase-Memory Operator for Respiratory Instability Detection Using Chest-Mounted Smartphone IMU Signals](https://doi.org/10.47852/bonviewSWT62029484)**
 
-**Published** · [DOI: 10.47852/bonviewSWT62029484](https://doi.org/10.47852/bonviewSWT62029484)
+**Published** · *Smart Wearable Technology* · May 13, 2026
+
+**DOI:** [10.47852/bonviewSWT62029484](https://doi.org/10.47852/bonviewSWT62029484)
 
 <details>
 <summary>Research overview</summary>
 
-Deterministic, reproducible analysis of respiratory instability using chest-mounted smartphone inertial measurements.
+Co-authored with Marcel Krüger, this peer-reviewed research introduces a deterministic phase-memory framework for identifying changes in respiratory patterns using chest-mounted smartphone motion sensors.
+
+Rather than relying on opaque machine-learning models, the proposed method measures deviations between instantaneous respiratory phase velocity and its short-term history, enabling transparent, reproducible, threshold-based detection.
+
+The framework was evaluated using five publicly available respiratory recordings with controlled breathing irregularities, including frequency drift, intermittent pauses, and burst-like disturbances. Experimental results demonstrated reproducible responses to these perturbations, while the reference Python implementation processed 60-second respiratory signals in approximately 2.37 milliseconds.
+
+My contributions included software engineering, computational validation, methodology, and reproducibility infrastructure.
+
+The study establishes a foundation for further investigation of lightweight, interpretable wearable sensing, while explicitly distinguishing proof-of-concept feasibility from clinical validation.
+
+**Source Code:** [Smartphone-Based Chest Monitoring](https://github.com/dfeen87/Smartphone-Based-Chest-Monitoring)
 
 </details>
-
 ---
 
-**02 — Neural Coherence & Spiral-Time Dynamics**
+**Neural Coherence & Spiral-Time Dynamics**
 
 **[Information-Theoretic Modeling of Neural Coherence via Triadic Spiral-Time Dynamics: A Framework for Neurodynamic Collapse](https://doi.org/10.47852/bonviewMEDIN62029043)**
 
-**Published** · [DOI: 10.47852/bonviewMEDIN62029043](https://doi.org/10.47852/bonviewMEDIN62029043)
+**Published** · *Medinformatics* · April 3, 2026
+
+**DOI:** [10.47852/bonviewMEDIN62029043](https://doi.org/10.47852/bonviewMEDIN62029043)
 
 <details>
 <summary>Research overview</summary>
 
-Co-authored with Marcel Krüger and Marcel Theodor Wende. Explores information-theoretic measures and geometric representations of neural coherence.
+Co-authored with Marcel Krüger and Marcel Theodor Wende, this peer-reviewed theoretical research introduces a unified information-theoretic and geometric framework for investigating neural coherence, cognitive organization, and transitions between stable and unstable neurodynamic states. The study integrates the Helix–Light–Vortex (HLV) triadic spiral-time operator, the DLHR multi-layer psychological architecture, and proposed neurophotonic coupling mechanisms into a common mathematical formulation. 
+
+By examining relationships between temporal dynamics, emotional regulation, memory, identity, and phase coherence, the framework establishes testable hypotheses for future computational and experimental investigation. Potential validation pathways include electroencephalography (EEG), magnetoencephalography (MEG), heart-rate variability, and advanced quantum-sensing methods. The accompanying EEG analysis offers an exploratory illustration of selected model quantities rather than definitive validation of the full theoretical framework. 
+
+My credited contributions included conceptualization and scientific manuscript review and editing.
+
+**Research Code:** [NeuroDynamics Collapse Validation](https://github.com/nwycomp/NeuroDynamics-Collapse-Validation-/blob/main/eeg-part-four.ipynb)
+
+**Archived Research Data:** [Zenodo — 10.5281/zenodo.17990696](https://doi.org/10.5281/zenodo.17990696)
 
 </details>
+---
 
-### Accepted & Under Review
-
-**03 — Deterministic Governance for Embodied AI**
+**Deterministic Governance for Embodied AI**
 
 **Deterministic Spiral-Time Governance for Safe Execution Filtering under Hallucinations in LLM-Controlled Climbing and Walking Robots**
 
@@ -189,10 +210,23 @@ Co-authored with Marcel Krüger and Marcel Theodor Wende. Explores information-t
 <details>
 <summary>Research overview</summary>
 
-Investigates deterministic safety filtering, governance constraints, and execution control for language-model-guided climbing and walking robots.
+Co-authored with Marcel Krüger, this research introduces a deterministic Spiral-Time Governor designed to improve execution safety in climbing and walking robots controlled by Large Language Models (LLMs).
+
+Rather than modifying the underlying language model, the framework introduces an external supervisory layer that evaluates proposed actions and environmental claims against verifiable system information. A deterministic instability function combines structural, informational, and contextual coherence deviations with temporal changes to regulate three operating modes: **EXECUTE, VERIFY, and SAFE**.
+
+The research establishes a formal supervisory architecture, a discrete Lyapunov-based boundedness argument under defined assumptions, and a reproducible experimental framework. Evaluation includes controlled synthetic simulations involving climbing, stair navigation, and gap traversal, followed by physics-grounded validation using a MuJoCo quadruped environment.
+
+In the MuJoCo proof of concept, the governor reduced average safety violations from **11.4 to 4.7 per episode**, representing approximately a **59% reduction**, without changing the simulated hallucination rate. These results demonstrate the potential value of deterministic execution filtering, while distinguishing simulation-based validation from proven safety on physical robotic hardware.
+
+My contributions included implementation of the simulation testbed, experimental execution, data generation, statistical evaluation, computational validation, and technical feedback during manuscript refinement.
+
+The study contributes an interpretable, model-agnostic approach to governing AI-assisted robotic execution, emphasizing deterministic constraints, reproducibility, and auditable safety decisions.
+
+**Research Manuscript:** [PAPER.md](https://github.com/dfeen87/STG-Embodied-POC/blob/main/PAPER.md)
+
+**Source Code:** [STG Embodied Proof of Concept](https://github.com/dfeen87/STG-Embodied-POC)
 
 </details>
-
 ---
 
 **04 — Solar-Flare Analysis & Scientific Verification**
@@ -204,12 +238,13 @@ Investigates deterministic safety filtering, governance constraints, and executi
 <details>
 <summary>Research overview</summary>
 
-Collaborative research with Marcel Krüger focused on GOES solar observations, computational verification, and scientific reproducibility.
+Co-authored with Marcel Krüger, this ongoing research investigates solar X-ray variability and its relationship to solar-flare activity using observations from the Geostationary Operational Environmental Satellites (GOES). The study explores computational methods for characterizing changes in solar activity while examining the scientific and methodological challenges involved in interpreting observational patterns as potential forecasting indicators.
 
-The ongoing revision evaluates what the preserved evidence actually establishes, including negative findings, retrospective selection effects, and limitations of forecasting interpretations.
+My contributions include computational implementation, data processing, software validation, reproducibility infrastructure, and methodological investigation. Particular emphasis is placed on transparent evaluation, the distinction between retrospective associations and genuine predictive information, and the importance of reporting both successful and inconclusive experimental outcomes.
+
+The ongoing peer-review revision prioritizes scientific accuracy, reproducibility, and evidence-based interpretation, with the broader objective of strengthening how computational approaches to solar-flare analysis are evaluated and understood.
 
 </details>
-
 ---
 
 <div align="center">
