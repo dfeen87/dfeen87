@@ -113,7 +113,7 @@ The work is research-stage unless a repository states otherwise. I use terms suc
 
 ---
 
-## **Background & Education**
+## **Background**
 
 My perspective is shaped by hands-on manufacturing, quality work, technical writing, and independent research. They've taught me that good engineering involves not just getting something to work, but making it clear, dependable, and considerate of the people who rely on it.
 
@@ -148,10 +148,9 @@ https://www.informationphysicsinstitute.org/
 
 *Computational science · Information theory · Autonomous systems · Scientific verification*
 
-
 ### Published & Peer-Reviewed
 
-**01 — Respiratory Instability Detection**
+**Respiratory Instability Detection**
 
 **[A Proof-of-Concept Deterministic Phase-Memory Operator for Respiratory Instability Detection Using Chest-Mounted Smartphone IMU Signals](https://doi.org/10.47852/bonviewSWT62029484)**
 
@@ -175,6 +174,7 @@ The study establishes a foundation for further investigation of lightweight, int
 **Source Code:** [Smartphone-Based Chest Monitoring](https://github.com/dfeen87/Smartphone-Based-Chest-Monitoring)
 
 </details>
+
 ---
 
 **Neural Coherence & Spiral-Time Dynamics**
@@ -199,6 +199,7 @@ My credited contributions included conceptualization and scientific manuscript r
 **Archived Research Data:** [Zenodo — 10.5281/zenodo.17990696](https://doi.org/10.5281/zenodo.17990696)
 
 </details>
+
 ---
 
 **Deterministic Governance for Embodied AI**
@@ -227,9 +228,10 @@ The study contributes an interpretable, model-agnostic approach to governing AI-
 **Source Code:** [STG Embodied Proof of Concept](https://github.com/dfeen87/STG-Embodied-POC)
 
 </details>
+
 ---
 
-**04 — Solar-Flare Analysis & Scientific Verification**
+**Solar-Flare Analysis & Scientific Verification**
 
 **Detection of Solar Plasma Instabilities Using Multi-Channel GOES Observations: Toward Early Solar Flare Forecasting**
 
@@ -245,6 +247,7 @@ My contributions include computational implementation, data processing, software
 The ongoing peer-review revision prioritizes scientific accuracy, reproducibility, and evidence-based interpretation, with the broader objective of strengthening how computational approaches to solar-flare analysis are evaluated and understood.
 
 </details>
+
 ---
 
 <div align="center">
