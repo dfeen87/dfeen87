@@ -33,7 +33,7 @@
 
 I build systems where **AI, software, and the physical world** meet.
 
-I develop and maintain open-source software released under the MIT License.
+**I develop and maintain open-source software released under the MIT License.**
 
 What drives me is a simple question:
 
