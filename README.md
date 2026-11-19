@@ -9,7 +9,7 @@
 
   <p>
     <strong>
-      Design Top-Down. Verify Bottom-Up. Iterate Across.
+      Design Top-Down. Verify Bottom-Up. Build with purpose.
     </strong>
   </p>
 
