@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <h1>👋 Hello, I'm Don.</h1>
+  <h1>👋 Hello, I'm Don Michael Feeney.</h1>
 
   <h3>
     I build with curiosity, care, and scientific rigor.
@@ -9,7 +9,7 @@
 
   <p>
     <strong>
-      Design Top-Down. Verify Bottom-Up. Build with purpose.
+      Design Top-Down. Verify Bottom-Up.
     </strong>
   </p>
 
